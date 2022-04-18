@@ -9,7 +9,7 @@ This reporting format is currently in the early stages of development. We welcom
 This reporting format is expected to be completed by September 2023. Development will be in several phases, with opportunities for community contribution in all stages. Two major periods of input and discussion are planned, of the first draft in April - October 2022, then further refinement in Jan - Mar 2023. 
     
 ## How to contribute
-As the reporting format is developed, links to drafts will be posted here, with the documentation open to public viewing and comment. [Version 1.1.1](https://docs.google.com/document/d/1FvrxnXt07XOqG9NLJUAtMzguRFO54fjlizMxcb9NRNM/edit#heading=h.ew929ymdqhhv) of the reporting format development document is now available for comment. 
+As the reporting format is developed, links to drafts will be posted here, with the documentation open to public viewing and comment. [Version 1.1.2](https://docs.google.com/document/d/1lAC_Vk_QcR-DVdOUYFFmNJiDsD_srMw7Ju_4-QlZ-9U/edit#) of the reporting format development document is now available for comment. 
 
 If you are interested in being notified of updates and when the draft reporting format is available to review, please indicate your interest by opening an [Issue](https://github.com/ess-dive-community/essdive-uas/issues), or directly emailing Kim Ely, [kely@bnl.gov](kely@bnl.gov).
 
