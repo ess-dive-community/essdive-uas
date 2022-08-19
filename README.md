@@ -1,4 +1,4 @@
-# ESS-DIVE Reporting Format for Unoccupied Aerial System (UAS) data and metadata v 0.1.1
+# ESS-DIVE Reporting Format for Unoccupied Aerial System (UAS) data and metadata v 0.1.2
 
 ## About the reporting format
 This reporting format will provide metadata requirements and format guidelines for uploading data from small (≤ 25 kg) Unoccupied Aerial Systems (UASs) to the ESS-DIVE archive. This includes basic recording of core flight data (e.g. telemetry), when available, and primary flight metadata (e.g. flight location, flight paths, altitude, date, start/end time), basic UAS payload and instrumentation information (e.g. camera make and model), and the general data product and file metadata needed for interpreting and accessing derived UAS datasets (e.g. pixel resolution, spatial reference system). Our objective is to develop a community-standard basic metadata format that works for any UAS platform and instrument payload while providing some guidance on how to expand on this with advanced metadata levels and suggested data storage formats that are optimized for cloud access.
@@ -9,7 +9,7 @@ This reporting format is currently in the early stages of development. We welcom
 This reporting format is expected to be completed by September 2023. Development will be in several phases, with opportunities for community contribution in all stages. Two major periods of input and discussion are planned, of the first draft in April - October 2022, then further refinement in Jan - Mar 2023. 
     
 ## How to contribute
-As the reporting format is developed, links to drafts will be posted here, with the documentation open to public viewing and comment. [Version 1.1.2](https://docs.google.com/document/d/1lAC_Vk_QcR-DVdOUYFFmNJiDsD_srMw7Ju_4-QlZ-9U/edit#) of the reporting format development document is now available for comment. We also encourage contributors to make use of the [Discussions](https://github.com/ess-dive-community/essdive-uas/discussions) to get the conversation going.   
+As the reporting format is developed, links to drafts will be posted here, with the documentation open to public viewing and comment. [Version 1.1.3](https://docs.google.com/document/d/14ytDxTXOixHb00QR12WTdriMnNljj6KB2o0Pnc-zBP0/edit#) of the reporting format development document is now available for comment. We also encourage contributors to make use of the [Discussions](https://github.com/ess-dive-community/essdive-uas/discussions) to get the conversation going.   
 
 If you are interested in being notified of updates and when the draft reporting format is available to review, please indicate your interest by opening an [Issue](https://github.com/ess-dive-community/essdive-uas/issues), or directly emailing Kim Ely, [kely@bnl.gov](kely@bnl.gov).
 
