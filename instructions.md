@@ -2,13 +2,13 @@
 
 A data package containing UAS data should include the following: 
 
-1. Campaign metadata table. 
+1. Campaign metadata table (csv). 
 
-2. Flight details table, or equivalent output from mission control software.  
+2. Flight details table (csv), or equivalent output from mission control software.  
 
-3. UAS platform metadata table. 
+3. UAS platform metadata table (csv). 
 
-4. A sensor metadata table for each sensor used.
+4. A sensor metadata table (csv) for each sensor used.
 
 5. Data products identified by processing level. Data from one or more processing levels may be included.
 
