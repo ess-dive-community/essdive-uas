@@ -15,8 +15,11 @@ A data package containing UAS data should include the following:
 ## Additional information
 UAS platform and sensor technologies are rapidly evolving. Inclusion of additional platform and sensor metadata, such as manufacture specification sheets, is encouraged. 
 
+## Use of this format with established spatial data conventions
+The content of this UAS data and metadata reporting format is limited to guidance specific to UAS data, platforms and sensors. It is recommend that data be prepared following recommendations from [EPSG](https://spatialreference.org/ref/epsg/) for spatial reference systems and [ISO 8601](https://www.iso.org/iso-8601-date-and-time-format.html) for dates and times. 
+
 ## Use of this format with other ESS-DIVE reporting formats
-The [ESS-DIVE collection of reporting formats](https://github.com/ess-dive-community) includes formats for different measurement types and also for file and metadata structures. The collection is designed to be modular, so use of multiple reporting formats will be required to correctly format a data package. As such, the content of this UAS data and metadata reporting format is limited to guidance specific to UAS data. 
+The [ESS-DIVE collection of reporting formats](https://github.com/ess-dive-community) includes formats for different measurement types and also for file and metadata structures. The collection is designed to be modular, so use of multiple reporting formats will be required to correctly format a data package. 
 
 Refer to the [ESS-DIVE Community Space](https://github.com/ess-dive-community) for a complete list of available reporting formats. 
 
