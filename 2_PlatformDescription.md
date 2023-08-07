@@ -1,7 +1,6 @@
 
 
 ### Manufacturer and model
-|:----------------------------------------------------|:----------------------------------------------------|
 |**Variable Name**|makeModel|
 |**Requirement level**|required|
 |**Unit or format**|free text|
@@ -10,7 +9,6 @@
 
 
 ### Airframe type
-|:----------------------------------------------------|:----------------------------------------------------|
 |**Variable Name**|airframeType|
 |**Requirement level**|required|
 |**Unit or format**|free text|
