@@ -5,21 +5,21 @@ This page provides guidelines and expectations for completion of the Platform De
 ---  
 ## Platform Description Metadata Content - Click links below for full description
 
-[Manufacturer and model](#Manufacturerandmodel) |
-[Airframe type](#Airframetype) |
-[Maximum takeoff gross weight](#Maximumtakeoffgrossweight) |
-[Serial number](#Serialnumber) |
+[Manufacturer and model](#Manufacturer-and-model) |
+[Airframe type](#Airframe-type) |
+[Maximum takeoff gross weight](#Maximum-takeoff-gross-weight) |
+[Serial number](#Serial-number) |
 [Registration](#Registration) |
-[Motor type](#Motortype) |
-[Propellor type](#Propellortype) |
-[Flight controller](#Flightcontroller) |
-[Battery type](#Batterytype) |
+[Motor type](#Motor-type) |
+[Propellor type](#Propellor-type) |
+[Flight controller](#Flight-controller) |
+[Battery type](#Battery-type) |
 [Gimbal type](#Gimbal-Type) |
 [Navigation](#Navigation) |
 [IMU](#IMU) |
-[Radio & telemetry](#Radio&telemetry) |
-[Handheld remote control](#Handheldremotecontrol) |
-[Platform images  available ](#Platformimagesavailable) |
+[Radio & telemetry](#Radio-&-telemetry) |
+[Handheld remote control](#Handheld-remote-control) |
+[Platform images  available ](#Platform-images-available) |
 
 ### Manufacturer and model
 |**Variable Name**|makeModel|
