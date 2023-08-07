@@ -1,25 +1,25 @@
-# UAS Platform Description Metadata Guide
+![image](https://github.com/ess-dive-community/essdive-uas/assets/13078587/c1ad9f47-3ba4-42a2-8dbd-ec9c949748a5)# UAS Platform Description Metadata Guide
 
 This page provides guidelines and expectations for completion of the Platform Description metadata template. 
 
 ---  
 ## Platform Description Metadata Content - Click links below for full description
 
-[Manufacturer and model*](#Manufacturer and model) |
-[Airframe type*](#Airframe type) |
-[Maximum takeoff gross weight*](#Maximum takeoff gross weight) |
-[Serial number*](#Serial number) |
-[Registration*](#Registration) |
-[Motor type*](#Motor type) |
-[Propellor type*](#Propellor type) |
-[Flight controller*](#Flight controller) |
-[Battery type*](#Battery type) |
-[Gimbal type*](#Gimbal type) |
-[Navigation*](#Navigation) |
-[IMU*](#IMU) |
-[Radio & telemetry*](#Radio & telemetry) |
-[Handheld remote control*](#Handheld remote control) |
-[Platform images  available *](#Platform images  available ) |
+[Manufacturer and model](#Manufacturerandmodel) |
+[Airframe type](#Airframe type) |
+[Maximum takeoff gross weight](#Maximum takeoff gross weight) |
+[Serial number](#Serial number) |
+[Registration](#Registration) |
+[Motor type](#Motor type) |
+[Propellor type](#Propellor type) |
+[Flight controller](#Flight controller) |
+[Battery type](#Battery type) |
+[Gimbal type](#Gimbal type) |
+[Navigation](#Navigation) |
+[IMU](#IMU) |
+[Radio & telemetry](#Radio & telemetry) |
+[Handheld remote control](#Handheld remote control) |
+[Platform images  available ](#Platform images  available ) |
 
 ### Manufacturer and model
 |**Variable Name**|makeModel|
