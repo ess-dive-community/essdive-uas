@@ -17,7 +17,7 @@ This page provides guidelines and expectations for completion of the Platform De
 [Gimbal type](#Gimbal-Type) |
 [Navigation](#Navigation) |
 [IMU](#IMU) |
-[Radio & telemetry](#Radio-&-telemetry) |
+[Radio & telemetry](#Radio-telemetry) |
 [Handheld remote control](#Handheld-remote-control) |
 [Platform images  available ](#Platform-images-available) |
 
