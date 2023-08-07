@@ -51,7 +51,7 @@ This page provides description of the variables included in the Platform Descrip
 ### Serial number
 |**Variable name**|serialNum|
 |:----------------------------------------------------|:----------------------------------------------------|
-|**Requirement level**|recommend|
+|**Requirement level**|`recommended`|
 |**Unit or format**|free text|
 |**Description**|Platform serial number|
 |**Example**|ABC123456|
