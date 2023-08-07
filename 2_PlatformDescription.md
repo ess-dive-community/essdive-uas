@@ -2,6 +2,7 @@
 
 ### Manufacturer and model
 |**Variable Name**|makeModel|
+|:----------------------------------------------------|:----------------------------------------------------|
 |**Requirement level**|required|
 |**Unit or format**|free text|
 |**Description**|Manufacturer and model of airframe|
@@ -10,6 +11,7 @@
 
 ### Airframe type
 |**Variable Name**|airframeType|
+|:----------------------------------------------------|:----------------------------------------------------|
 |**Requirement level**|required|
 |**Unit or format**|free text|
 |**Description**|Type of airframe|
@@ -19,7 +21,6 @@
 ### Maximum takeoff gross weight
 |**Variable Name**|maxWeight|
 |:----------------------------------------------------|:----------------------------------------------------|
-|**Variable Name**|maxWeight|
 |**Requirement level**|required|
 |**Unit or format**|kilograms|
 |**Description**|Maximum takeoff gross weight of system including airframe|
@@ -27,8 +28,8 @@
 
 
 ### Serial number
-|:----------------------------------------------------|:----------------------------------------------------|
 |**Variable Name**|serialNum|
+|:----------------------------------------------------|:----------------------------------------------------|
 |**Requirement level**|recommend|
 |**Unit or format**|free text|
 |**Description**|Platform serial number|
@@ -36,8 +37,8 @@
 
 
 ### Registration
-|:----------------------------------------------------|:----------------------------------------------------|
 |**Variable Name**|registration|
+|:----------------------------------------------------|:----------------------------------------------------|
 |**Requirement level**|recommended|
 |**Unit or format**|free text|
 |**Description**|"""Platform registration details, e.g. FAA registration number"""|
@@ -45,8 +46,8 @@
 
 
 ### Motor type
-|:----------------------------------------------------|:----------------------------------------------------|
 |**Variable Name**|motorType|
+|:----------------------------------------------------|:----------------------------------------------------|
 |**Requirement level**|optional|
 |**Unit or format**|free text|
 |**Description**|Manufacturer and model of motor types|
@@ -54,8 +55,8 @@
 
 
 ### Propellor type
-|:----------------------------------------------------|:----------------------------------------------------|
 |**Variable Name**|propellorType|
+|:----------------------------------------------------|:----------------------------------------------------|
 |**Requirement level**|optional|
 |**Unit or format**|free text|
 |**Description**|Manufacturer and model of propellor types|
@@ -63,8 +64,8 @@
 
 
 ### Flight controller
-|:----------------------------------------------------|:----------------------------------------------------|
 |**Variable Name**|flightController|
+|:----------------------------------------------------|:----------------------------------------------------|
 |**Requirement level**|optional|
 |**Unit or format**|free text|
 |**Description**|Manufacturer and model of flight controller|
@@ -72,8 +73,8 @@
 
 
 ### Battery type
-|:----------------------------------------------------|:----------------------------------------------------|
 |**Variable Name**|batteryType|
+|:----------------------------------------------------|:----------------------------------------------------|
 |**Requirement level**|optional|
 |**Unit or format**|free text|
 |**Description**|"""Battery type (cells, peak voltage, connectors)"""|
@@ -81,8 +82,8 @@
 
 
 ### Gimbal type
-|:----------------------------------------------------|:----------------------------------------------------|
 |**Variable Name**|gimbalType|
+|:----------------------------------------------------|:----------------------------------------------------|
 |**Requirement level**|optional|
 |**Unit or format**|free text|
 |**Description**|Manufacturer and model of gimbal types|
@@ -90,8 +91,8 @@
 
 
 ### Navigation
-|:----------------------------------------------------|:----------------------------------------------------|
 |**Variable Name**|navigation|
+|:----------------------------------------------------|:----------------------------------------------------|
 |**Requirement level**|optional|
 |**Unit or format**|free text|
 |**Description**|GPS make/model and supported GNSS modes|
@@ -99,8 +100,8 @@
 
 
 ### IMU
-|:----------------------------------------------------|:----------------------------------------------------|
 |**Variable Name**|imu|
+|:----------------------------------------------------|:----------------------------------------------------|
 |**Requirement level**|optional|
 |**Unit or format**|free text|
 |**Description**|Inertial Measurement Unit model|
@@ -108,8 +109,8 @@
 
 
 ### Radio & telemetry
-|:----------------------------------------------------|:----------------------------------------------------|
 |**Variable Name**|radioModel|
+|:----------------------------------------------------|:----------------------------------------------------|
 |**Requirement level**|optional|
 |**Unit or format**|free text|
 |**Description**|Manufacturer and model of radios|
@@ -117,8 +118,8 @@
 
 
 ### Handheld remote control
-|:----------------------------------------------------|:----------------------------------------------------|
 |**Variable Name**|controlModel|
+|:----------------------------------------------------|:----------------------------------------------------|
 |**Requirement level**|optional|
 |**Unit or format**|free text|
 |**Description**|Manufacturer and model of handheld remote control|
@@ -126,8 +127,8 @@
 
 
 ### Platform images available
-|:----------------------------------------------------|:----------------------------------------------------|
 |**Variable Name**|platformImages|
+|:----------------------------------------------------|:----------------------------------------------------|
 |**Requirement level**|optional|
 |**Unit or format**|free text|
 |**Description**|Indicate if photos or diagrams showing the platform and payload configuration are included in the data package.|
