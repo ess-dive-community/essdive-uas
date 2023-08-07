@@ -22,7 +22,7 @@ This page provides description of the variables included in the Platform Descrip
 [Platform images  available ](#Platform-images-available) |
 
 ### Manufacturer and model
-|**Variable Name**|makeModel|
+|**Variable name**|makeModel|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Requirement level**|required|
 |**Unit or format**|free text|
@@ -31,7 +31,7 @@ This page provides description of the variables included in the Platform Descrip
 
 
 ### Airframe type
-|**Variable Name**|airframeType|
+|**Variable name**|airframeType|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Requirement level**|required|
 |**Unit or format**|free text|
@@ -40,7 +40,7 @@ This page provides description of the variables included in the Platform Descrip
 
 
 ### Maximum takeoff gross weight
-|**Variable Name**|maxWeight|
+|**Variable name**|maxWeight|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Requirement level**|required|
 |**Unit or format**|kilograms|
@@ -49,7 +49,7 @@ This page provides description of the variables included in the Platform Descrip
 
 
 ### Serial number
-|**Variable Name**|serialNum|
+|**Variable name**|serialNum|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Requirement level**|recommend|
 |**Unit or format**|free text|
@@ -58,7 +58,7 @@ This page provides description of the variables included in the Platform Descrip
 
 
 ### Registration
-|**Variable Name**|registration|
+|**Variable name**|registration|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Requirement level**|recommended|
 |**Unit or format**|free text|
@@ -67,7 +67,7 @@ This page provides description of the variables included in the Platform Descrip
 
 
 ### Motor type
-|**Variable Name**|motorType|
+|**Variable name**|motorType|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Requirement level**|optional|
 |**Unit or format**|free text|
@@ -76,7 +76,7 @@ This page provides description of the variables included in the Platform Descrip
 
 
 ### Propellor type
-|**Variable Name**|propellorType|
+|**Variable name**|propellorType|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Requirement level**|optional|
 |**Unit or format**|free text|
@@ -85,7 +85,7 @@ This page provides description of the variables included in the Platform Descrip
 
 
 ### Flight controller
-|**Variable Name**|flightController|
+|**Variable name**|flightController|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Requirement level**|optional|
 |**Unit or format**|free text|
@@ -94,7 +94,7 @@ This page provides description of the variables included in the Platform Descrip
 
 
 ### Battery type
-|**Variable Name**|batteryType|
+|**Variable name**|batteryType|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Requirement level**|optional|
 |**Unit or format**|free text|
@@ -103,7 +103,7 @@ This page provides description of the variables included in the Platform Descrip
 
 
 ### Gimbal type
-|**Variable Name**|gimbalType|
+|**Variable name**|gimbalType|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Requirement level**|optional|
 |**Unit or format**|free text|
@@ -112,7 +112,7 @@ This page provides description of the variables included in the Platform Descrip
 
 
 ### Navigation
-|**Variable Name**|navigation|
+|**Variable name**|navigation|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Requirement level**|optional|
 |**Unit or format**|free text|
@@ -121,7 +121,7 @@ This page provides description of the variables included in the Platform Descrip
 
 
 ### IMU
-|**Variable Name**|imu|
+|**Variable name**|imu|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Requirement level**|optional|
 |**Unit or format**|free text|
@@ -130,7 +130,7 @@ This page provides description of the variables included in the Platform Descrip
 
 
 ### Radio and telemetry
-|**Variable Name**|radioModel|
+|**Variable name**|radioModel|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Requirement level**|optional|
 |**Unit or format**|free text|
@@ -139,7 +139,7 @@ This page provides description of the variables included in the Platform Descrip
 
 
 ### Handheld remote control
-|**Variable Name**|controlModel|
+|**Variable name**|controlModel|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Requirement level**|optional|
 |**Unit or format**|free text|
@@ -148,7 +148,7 @@ This page provides description of the variables included in the Platform Descrip
 
 
 ### Platform images available
-|**Variable Name**|platformImages|
+|**Variable name**|platformImages|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Requirement level**|optional|
 |**Unit or format**|free text|
