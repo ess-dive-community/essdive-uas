@@ -17,6 +17,7 @@
 
 
 ### Maximum takeoff gross weight
+|**Variable Name**|maxWeight|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Variable Name**|maxWeight|
 |**Requirement level**|required|
