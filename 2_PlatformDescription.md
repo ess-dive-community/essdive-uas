@@ -14,7 +14,7 @@ This page provides guidelines and expectations for completion of the Platform De
 [Propellor type](#Propellortype) |
 [Flight controller](#Flightcontroller) |
 [Battery type](#Batterytype) |
-[Gimbal type](#GimbalType) |
+[Gimbal type](#Gimbal-Type) |
 [Navigation](#Navigation) |
 [IMU](#IMU) |
 [Radio & telemetry](#Radio&telemetry) |
