@@ -24,7 +24,7 @@ This page provides description of the variables included in the Platform Descrip
 ### Manufacturer and model
 |**Variable name**|makeModel|
 |:----------------------------------------------------|:----------------------------------------------------|
-|**Requirement level**|'required'|
+|**Requirement level**|`required`|
 |**Unit or format**|free text|
 |**Description**|Manufacturer and model of airframe|
 |**Example**|CarbonCore Cortex X8 Heavy-Lift airframe|
