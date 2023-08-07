@@ -15,7 +15,7 @@
 |**Requirement level**|required|
 |**Unit or format**|free text|
 |**Description**|Type of airframe|
-|**Example**|"""fixed wing, quadcopter, octocopter"""|
+|**Example**|fixed wing, quadcopter, octocopter|
 
 
 ### Maximum takeoff gross weight
@@ -41,7 +41,7 @@
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Requirement level**|recommended|
 |**Unit or format**|free text|
-|**Description**|"""Platform registration details, e.g. FAA registration number"""|
+|**Description**|Platform registration details, e.g. FAA registration number|
 |**Example**|ABC-123|
 
 
@@ -77,8 +77,8 @@
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Requirement level**|optional|
 |**Unit or format**|free text|
-|**Description**|"""Battery type (cells, peak voltage, connectors)"""|
-|**Example**|"""LiPo (or Li-ion), 12 cell, 50.4V, XT-90"""|
+|**Description**|Battery type (cells, peak voltage, connectors)|
+|**Example**|LiPo (or Li-ion), 12 cell, 50.4V, XT-90|
 
 
 ### Gimbal type
