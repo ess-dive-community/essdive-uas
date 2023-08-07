@@ -1,6 +1,6 @@
 # UAS Platform Description Metadata Guide
 
-This page provides guidelines and expectations for completion of the Platform Description metadata template. 
+This page provides description of the variables included in the Platform Description metadata. Use to to guide completion of the Platform Description metadata template. 
 
 ---  
 ## Platform Description Metadata Content - Click links below for full description
