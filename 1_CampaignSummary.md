@@ -1,6 +1,6 @@
 # UAS Campaign Summary Metadata Guide
 
-This page provides description of the variables included in the Campaign Summary metadata. Use this to guide completion of the Campaign Summary metadata template (add link). 
+This page provides description of the variables included in the Campaign Summary metadata. Use this to guide completion of the [Campaign Summary metadata template](https://github.com/ess-dive-community/essdive-uas/tree/main/templates). 
 
 ---  
 ## Campaign Summary Metadata Content - Click links below for full description
