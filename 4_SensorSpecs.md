@@ -189,7 +189,7 @@ This page provides description of the variables included in the Sensor Specifica
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Unit or format**|free text|
 |**Description**|Instrument measurement wavelength range. Can be more than one if a co-aligned instrument|
-|**Example**|350 ~ 1000 nm; {350-1000, 1200-2400}|
+|**Example**|350 ~ 1000 nm|
 
 ### Spectral resolution
 |**Variable name**|spectralRes|
