@@ -1,9 +1,30 @@
+# UAS Campaign Summaryn Metadata Guide
+
+This page provides description of the variables included in the Campaign Summary metadata. Use this to guide completion of the Campaign Summary metadata template (add link). 
+
+---  
+## Campaign Summary Metadata Content - Click links below for full description
+[Project](#Project) |
+[Contact](#Contact) |
+[Pilot in Command (PIC)](#Pilot-in-Command-(PIC)) |
+[Location](#Location) |
+[Description](#Description) |
+[Location ID](#Location-ID) |
+[Start date](#Start-date) |
+[Date end](#Date-end) |
+[Total number of flights](#Total-number-of-flights) |
+[Average flight time](#Average-flight-time) |
+[Total flight time](#Total-flight-time) |
+[Permits and waivers](#Permits-and-waivers) |
+[Base station](#Base-station) |
+[Geospatial reference](#Geospatial-reference) |
+
 ### Project
 |**Variable Name**|Project|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Requirement level**|`required`|
-|**Unit or format**|controlled list (ESS-DIVE) or free text |
-|**Description**|Project name |
+|**Unit or format**|controlled list (ESS-DIVE) or free text|
+|**Description**|Project name|
 |**Example**|Next-Generation Ecosystem Experiments (NGEE) Tropics|
 
 ### Contact
@@ -19,7 +40,7 @@
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Requirement level**|`recommended`|
 |**Unit or format**|free text|
-|**Description**|List the name and contact details of the Pilot in Command (PIC). Include FAA pilot license number if applicable. |
+|**Description**|List the name and contact details of the Pilot in Command (PIC). Include FAA pilot license number if applicable.|
 |**Example**|First name, Last name, Organization, Email, FAA license number|
 
 ### Location description
