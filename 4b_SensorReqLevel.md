@@ -3,12 +3,12 @@
 |Sensor type|sensorType|required|required|required|required|required|
 |Manufacturer and model|makeModel|required|required|required|required|required|
 |Serial number|serialNum|optional|required|required|required|required|
-|Calibration date|calibrationDate|x|&#9677|&#9677|&#9677|&#9677|
+|Calibration date|calibrationDate|x|&#9677;|&#9677;|&#9677;|&#9677;|
 |Foreoptic|Foreoptic|required|required|required|required|x|
 |Image area and size|imageSize|optional|optional|x|x|x|
 |Shutter speed|shutterSpeed|required|x|x|x|x|
 |Focal length|focalLength|required|required|x|x|x|
-|FOV|FOV|&#9677|&#9677|&#9677|&#9677|required|
+|FOV|FOV|&#9677;|&#9677;|&#9677;|&#9677;|required|
 |ISO|ISO|required|x|x|x|x|
 |Focus|focus|optional|optional|x|optional|x|
 |White balance|whiteBalance|optional|x|x|x|x|
@@ -26,9 +26,9 @@
 |Navigation|navSystem|x|x|optional|required|required|
 |Spatial pixels|spatialPixels|x|required|x|required|x|
 |F-number|Fnumber|required|required|x|optional|x|
-|weight|weight|optional|optional|optional|optional|&#9677|
+|weight|weight|optional|optional|optional|optional|&#9677;|
 |Lidar wavelength|lidarWavelength|x|x|x|x|required|
 |Lidar channels|lidarChannels|x|x|x|x|required|
-|Lidar range|lidarMeasurementRange|x|x|x|x|&#9677|
-|Minimum angular Resolution|minAngRes|x|x|x|x|&#9677|
-|Angular resolution|angRes|x|x|x|x|&#9677|
+|Lidar range|lidarMeasurementRange|x|x|x|x|&#9677;|
+|Minimum angular Resolution|minAngRes|x|x|x|x|&#9677;|
+|Angular resolution|angRes|x|x|x|x|&#9677;|
