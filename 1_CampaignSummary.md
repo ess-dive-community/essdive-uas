@@ -6,9 +6,9 @@ This page provides description of the variables included in the Campaign Summary
 ## Campaign Summary Metadata Content - Click links below for full description
 [Project](#Project) |
 [Contact](#Contact) |
-[Pilot in Command (PIC)](#Pilot-in-Command-(PIC)) |
+[Pilot in Command](#Pilot-in-Command) |
 [Location description](#Location-description) |
-[Location ID](#Location-ID) |
+[Location identifier](#Location-identifier) |
 [Start date](#Start-date) |
 [End date](#End-date) |
 [Total number of flights](#Total-number-of-flights) |
@@ -34,7 +34,7 @@ This page provides description of the variables included in the Campaign Summary
 |**Description**|List the person who should be contacted by users seeking further information for the data. Only one contact is allowed. Including the ORCID of this individual is strongly encouraged.|
 |**Example**|First name, Last name, Organization, Email, ORCID|
 
-### Pilot in Command (PIC)
+### Pilot in Command
 |**Variable Name**|pilot|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Requirement level**|`recommended`|
@@ -66,7 +66,7 @@ This page provides description of the variables included in the Campaign Summary
 |**Description**|Date of first flight in data package|
 |**Example**|2022-02-02|
 
-### Date end
+### End Date
 |**Variable Name**|date_End|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Requirement level**|`required`|
