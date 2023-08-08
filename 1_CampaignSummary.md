@@ -7,11 +7,10 @@ This page provides description of the variables included in the Campaign Summary
 [Project](#Project) |
 [Contact](#Contact) |
 [Pilot in Command (PIC)](#Pilot-in-Command-(PIC)) |
-[Location](#Location) |
-[Description](#Description) |
+[Location description](#Location-description) |
 [Location ID](#Location-ID) |
 [Start date](#Start-date) |
-[Date end](#Date-end) |
+[End date](#End-date) |
 [Total number of flights](#Total-number-of-flights) |
 [Average flight time](#Average-flight-time) |
 [Total flight time](#Total-flight-time) |
