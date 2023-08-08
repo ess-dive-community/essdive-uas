@@ -106,7 +106,7 @@ This page provides description of the variables included in the Campaign Summary
 |**Description**|List land permits, waivers and Certificates of Waiver or Authorization (COA). Can include documents in the data package.|
 |**Example**|permit.pdf|
 
-### Base Station
+### Base station
 |**Variable Name**|baseStation|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Requirement level**|`recommended`|
