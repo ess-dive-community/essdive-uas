@@ -1,6 +1,6 @@
 # UAS Sensor Specification Requirement Levels
 
-This table indicates the requirement level of each Sensor Specification metadata variable for each sensor type. 
+This table indicates the requirement level of each [Sensor Specification metadata variable](https://github.com/ess-dive-community/essdive-uas/blob/main/4a_SensorSpecs.md) for each sensor type. 
 ### Metadata variables are:
 - required (closed circle, &#9679;)
 - recommended (shaded circle, &#9677;) 
