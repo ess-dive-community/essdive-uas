@@ -1,6 +1,6 @@
 # UAS Platform Description Metadata Guide
 
-This page provides description of the variables included in the Platform Description metadata. Use this to guide completion of the Platform Description metadata template (add link). 
+This page provides description of the variables included in the Platform Description metadata. Use this to guide completion of the [Platform Description metadata template](https://github.com/ess-dive-community/essdive-uas/tree/main/templates). 
 
 ---  
 ## Platform Description Metadata Content - Click links below for full description
