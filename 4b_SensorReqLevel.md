@@ -7,7 +7,7 @@ This table indicates the requirement level of each Sensor Specification metadata
 - optional (open circle, &#9675;) 
 - not applicable (**x**)
 
-Use this to guide completion of the Sensor Specification metadata templates for each sensor type (add link). 
+Use this to guide completion of the [Sensor Specification metadata template](https://github.com/ess-dive-community/essdive-uas/tree/main/templates) for each sensor type. 
 
 |**Metadata element**|**Variable name**|**Optical RGB camera**|**Thermal camera**|**Point spectrometer**|**Imaging spectrometer**|**LiDAR**|
 |:------|:------:|:------:|:------:|:------:|:------:|:------:|
