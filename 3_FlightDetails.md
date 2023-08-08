@@ -6,7 +6,7 @@ This page provides description of the variables included in the Flight Detail me
 ## Platform Description Metadata Content - Click links below for full description
 [Flight name](#Flight-name) |
 [Site](#Site) |
-[Start date time](#Start date time) |
+[Start date time](#Start-date-time) |
 [End date time](#End-date-time) |
 [Flight boundary](#Flight-boundary) |
 [Flight height](#Flight-height) |
@@ -19,7 +19,7 @@ This page provides description of the variables included in the Flight Detail me
 [Cloud cover](#Cloud-cover) |
 [Cloud type](#Cloud-type) |
 [Surface wetness](#Surface-wetness) |
-Days since last rain event](#Days-since-last-rain-event) |
+[Days since last rain event](#Days-since-last-rain-event) |
 
 ### Flight name
 |**Variable name**|flightIdentifier|
