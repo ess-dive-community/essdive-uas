@@ -1,3 +1,42 @@
+![image](https://github.com/ess-dive-community/essdive-uas/assets/13078587/714263e4-9bdf-43f5-99be-9c8963e0c8ad)# UAS Sensor Specification Metadata Guide
+
+This page provides description of the variables included in the Sensor Specification metadata. Use this to guide completion of the Sensor Specification metadata template (add link). 
+
+---  
+## Sensor Specification Metadata Content - Click links below for full description. See ADD LINK for requirement levels for each sensor type. 
+[Sensor type](#Sensor-type) |
+[Manufacturer and model](#Manufacturer-and-model) |
+[Serial number](#Serial-number) |
+[Calibration date](#Calibration-date) |
+[Foreoptic](#Foreoptic) |
+[Image area and size](#Image-area-and-size) |
+[Shutter speed](#Shutter-speed) |
+[Focal length](#Focal-length) |
+[FOV](#FOV) |
+[ISO](#ISO) |
+[Focus](#Focus) |
+[White balance](#White-balance) |
+[Quantization](#Quantization) |
+[File format](#File-format) |
+[Sensor measurement units](#Sensor-measurement-units) |
+[Accuracy](#Accuracy) |
+[Precision](#Precision) |
+[Sensitivity](#Sensitivity) |
+[Collection Frame Rate](#Collection-Frame-Rate) |
+[Sensor spectral response functions](#Sensor-spectral-response-functions) |
+[Integration time](#Integration-time) |
+[Spectral range](#Spectral-range) |
+[Spectral resolution](#Spectral-resolution) |
+[Navigation](#Navigation) |
+[Spatial pixels](#Spatial-pixels) |
+[F-number](#F-number) |
+[weight](#weight) |
+[Lidar wavelength](#Lidar-wavelength) |
+[Lidar channels](#Lidar-channels) |
+[Lidar range](#Lidar-range) |
+[Minimum angular Resolution](#Minimum-angular-Resolution) |
+[Angular resolution](#Angular-resolution) |
+
 ### Sensor type
 |**Variable name**|sensorType|
 |:----------------------------------------------------|:----------------------------------------------------|
