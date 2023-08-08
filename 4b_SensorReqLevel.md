@@ -1,11 +1,11 @@
 # UAS Sensor Specification Requirement Levels
 
 This table indicates the requirement level of each Sensor Specification metadata variable for each sensor type. 
-Variables are:
-required (closed circle, &#9679;)
-recommended (shaded circle, &#9677;) 
-optional (open circle, &#9675;) 
-not applicable (**x**)
+### Metadata variables are:
+- required (closed circle, &#9679;)
+- recommended (shaded circle, &#9677;) 
+- optional (open circle, &#9675;) 
+- not applicable (**x**)
 
 Use this to guide completion of the Sensor Specification metadata templates for each sensor type (add link). 
 
