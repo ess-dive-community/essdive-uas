@@ -1,6 +1,6 @@
 # UAS Flight Detail Metadata Guide
 
-This page provides description of the variables included in the Flight Detail metadata. Use this to guide completion of the Flight Detail metadata template (add link). 
+This page provides description of the variables included in the Flight Detail metadata. Use this to guide completion of the [Flight Detail metadata template](https://github.com/ess-dive-community/essdive-uas/tree/main/templates). 
 
 ---  
 ## Platform Description Metadata Content - Click links below for full description
