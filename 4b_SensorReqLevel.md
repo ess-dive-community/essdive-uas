@@ -3,7 +3,7 @@
 This table indicates the requirement level of each Sensor Specification metadata variable for each sensor type. Variables are required (closed circle, &#9679;), recommended (shaded circle, &#9677;) optional (open circle, &#9675;) or not applicable (**x**). Use this to guide completion of the Sensor Specification metadata templates for each sensor type (add link). 
 
 |**Metadata element**|**Variable name**|**Optical RGB camera**|**Thermal camera**|**Point spectrometer**|**Imaging spectrometer**|**LiDAR**|
-|:------|:------|:------|:------|:------|:------|:------|
+|:------|:------:|:------:|:------:|:------:|:------:|:------:|
 |Sensor type|sensorType|&#9679;|&#9679;|&#9679;|&#9679;|&#9679;|
 |Manufacturer and model|makeModel|&#9679;|&#9679;|&#9679;|&#9679;|&#9679;|
 |Serial number|serialNum|&#9675;|&#9679;|&#9679;|&#9679;|&#9679;|
