@@ -1,4 +1,4 @@
-![image](https://github.com/ess-dive-community/essdive-uas/assets/13078587/714263e4-9bdf-43f5-99be-9c8963e0c8ad)# UAS Sensor Specification Metadata Guide
+# UAS Sensor Specification Metadata Guide
 
 This page provides description of the variables included in the Sensor Specification metadata. Use this to guide completion of the Sensor Specification metadata template (add link). 
 
