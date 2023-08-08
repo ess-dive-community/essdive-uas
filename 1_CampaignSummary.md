@@ -1,4 +1,4 @@
-# UAS Campaign Summaryn Metadata Guide
+# UAS Campaign Summary Metadata Guide
 
 This page provides description of the variables included in the Campaign Summary metadata. Use this to guide completion of the Campaign Summary metadata template (add link). 
 
