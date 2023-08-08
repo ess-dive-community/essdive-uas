@@ -3,7 +3,7 @@
 |Sensor type|sensorType|required|required|required|required|required|
 |Manufacturer and model|makeModel|required|required|required|required|required|
 |Serial number|serialNum|optional|required|required|required|required|
-|Calibration date|calibrationDate|x|&#9677|&#9677;|&#9677;|&#9677;|
+|Calibration date|calibrationDate|x|&#9677;|&#9677;|&#9677;|&#9677;|
 |Foreoptic|Foreoptic|required|required|required|required|x|
 |Image area and size|imageSize|optional|optional|x|x|x|
 |Shutter speed|shutterSpeed|required|x|x|x|x|
