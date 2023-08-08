@@ -1,3 +1,26 @@
+# UAS Flight Detail Metadata Guide
+
+This page provides description of the variables included in the Flight Detail metadata. Use this to guide completion of the Flight Detail metadata template (add link). 
+
+---  
+## Platform Description Metadata Content - Click links below for full description
+[Flight name](#Flight-name) |
+[Site](#Site) |
+[Start date time](#Start date time) |
+[End date time](#End-date-time) |
+[Flight boundary](#Flight-boundary) |
+[Flight height](#Flight-height) |
+[Forward overlap](#Forward-overlap) |
+[Side overlap](#Side-overlap) |
+[Flight speed](#Flight-speed) |
+[Weather conditions](#Weather-conditions) |
+[Brightness](#Brightness) |
+[Light type](#Light-type) |
+[Cloud cover](#Cloud-cover) |
+[Cloud type](#Cloud-type) |
+[Surface wetness](#Surface-wetness) |
+Days since last rain event](#Days-since-last-rain-event) |
+
 ### Flight name
 |**Variable name**|flightIdentifier|
 |:----------------------------------------------------|:----------------------------------------------------|
@@ -76,7 +99,7 @@
 |**Requirement level**|`optional`|
 |**Unit or format**|free text|
 |**Description**|Summary of wind speed, temperature, cloud cover|
-|**Example**|5 mph, 25 ¡C, 10% cloud|
+|**Example**|5 mph, 25 Â¡C, 10% cloud|
 
 ### Brightness
 |**Variable name**|brightness|
