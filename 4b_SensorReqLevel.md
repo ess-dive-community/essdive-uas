@@ -1,5 +1,5 @@
 |**Metadata element**|**Variable name**|**Optical RGB camera**|**Thermal camera**|**Point spectrometer**|**Imaging spectrometer**|**LiDAR**|
-|:------|:------|:------|:------|:------|:------|:------||
+|:------|:------|:------|:------|:------|:------|:------|
 |Sensor type|sensorType|required|required|required|required|required|
 |Manufacturer and model|makeModel|required|required|required|required|required|
 |Serial number|serialNum|optional|required|required|required|required|
