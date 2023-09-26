@@ -1,20 +1,13 @@
-# ESS-DIVE Reporting Format for Unoccupied Aerial System (UAS) data and metadata v 0.3.0
+# ESS-DIVE Reporting Format for Unoccupied Aerial System (UAS) data and metadata v 1.0.0
 
 ## About the reporting format
-This reporting format will provide metadata requirements and format guidelines for uploading data from small (≤ 25 kg) Unoccupied Aerial Systems (UASs) to the ESS-DIVE archive. This includes basic recording of core flight data (e.g. telemetry), when available, and primary flight metadata (e.g. flight location, flight paths, altitude, date, start/end time), basic UAS payload and instrumentation information (e.g. camera make and model), and the general data product and file metadata needed for interpreting and accessing derived UAS datasets (e.g. pixel resolution, spatial reference system). Our objective is to develop a community-standard basic metadata format that works for any UAS platform and instrument payload while providing some guidance on how to expand on this with advanced metadata levels and suggested data storage formats that are optimized for cloud access.
-
-## Quickstart guide
-This reporting format is currently in the final stages of development. We welcome and encourage contributions and feedback, as described below in [How to contribute.](https://github.com/ess-dive-community/essdive-uas#how-to-contribute)
-
-This reporting format is expected to be completed by September 2023. Development will be in several phases, with opportunities for community contribution in all stages. Two major periods of input and discussion are planned, of the first draft in April - October 2022, then further refinement in Jan - Mar 2023. The final opportunity for input is August 2023.  
-    
-## How to contribute
-Comments and suggests on this last development version of the reporting format and documentation may be made by opening an [Issue](https://github.com/ess-dive-community/essdive-uas/issues), or directly emailing Kim Ely, [kely@bnl.gov](kely@bnl.gov). We also encourage contributors to make use of the [Discussions](https://github.com/ess-dive-community/essdive-uas/discussions) to get the conversation going. Note that the commenting period on earlier versions in Google Docs is now closed.   
-
-This reporting format is intended to represent a consensus from the ESS community on how best to archive data from small UASs. We also encourage contribution from the wider community of UAS operators, and users of data. 
+This reporting format provides metadata requirements and format guidelines for uploading data from small (≤ 25 kg) Unoccupied Aerial Systems (UASs) to the ESS-DIVE archive. This includes basic recording of core flight data (e.g. telemetry), when available, and primary flight metadata (e.g. flight location, flight paths, altitude, date, start/end time), basic UAS payload and instrumentation information (e.g. camera make and model), and the general data product and file metadata needed for interpreting and accessing derived UAS datasets (e.g. pixel resolution, spatial reference system). Templates are provided to enable rapid compilation of metadata. Data products are classfied into processing levels, and recommendations are given for file naming. 
 
 ## Instructions
 See the [Instructions](https://github.com/ess-dive-community/essdive-uas/blob/main/instructions.md) for how to use the format. 
+
+## How to contribute
+Comments and suggestions for improvement of this reporting format and documentation may be made by opening an [Issue](https://github.com/ess-dive-community/essdive-uas/issues). We also encourage contributors to make use of the [Discussions](https://github.com/ess-dive-community/essdive-uas/discussions).   
 
 ## Liscensing information
 This repository content is license for use under the [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/)
