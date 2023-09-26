@@ -70,7 +70,7 @@ This page provides description of the variables included in the Sensor Specifica
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Unit or format**|free text|
 |**Description**|Specifications of the foreoptic used for data collection. A foreoptic could be an optical lens, a fiber optic, a combined fiber optic+lens, etc. Include serial numbers if applicable.|
-|**Example**|Canon Zoom Lens EF-M 15-45 mm with a neutral density filter;Fiber optic cable with a variable FOV optical lens; None|
+|**Example**|Canon Zoom Lens EF-M 15-45 mm with a neutral density filter; Fiber optic cable with a variable FOV optical lens; None|
 
 ### Image area and size
 |**Variable name**|imageSize|
