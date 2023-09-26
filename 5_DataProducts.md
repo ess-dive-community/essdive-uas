@@ -1,11 +1,14 @@
 # UAS Data data product types and processing levels
 
-A scheme of data Levels allows data users to clearly identify the types of data products within a UAS data package. 
+A scheme of data Levels is proposed to allow data users to clearly identify the types of data products within a UAS data package. 
 
-The following tables describe data levels, giving examples of data types and file formats. With ‘File name convention’, the *** represents a prefix for a flight or campaign. This prefix should represent on the study site, acquisition date, and/or flight identification as appropriate.
+The following tables describe data levels, giving examples of data types and file formats. With ‘File name recommendations’, the *** represents a prefix for a flight or campaign. This prefix should represent the study site, acquisition date, and/or flight identification as appropriate. 
+
+Note that this list is intended to show examples for each data Level, and is not exhaustive of all possible products or file formats. 
 
 ---
 ## Level 0 (L0): raw data collected with the platform
+Level 0 data are raw data directly from the instrumentation on board the UAS platform. In addition, this data should include basic any flight mission telemetry and trigger records that help users identify the location, time, data triggering events needed for post-processing and any corrections or QA/QC of the data.
 [Flight mission telemetry and trigger records](#Flight-mission-telemetry-and-trigger-records) |
 [Spectral reflectance json files](#Spectral-reflectance-json-files) |
 [Optical RGB photos](#Optical-RGB-photos) |
