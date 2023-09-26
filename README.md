@@ -19,7 +19,9 @@ Funding for the development of ESS-DIVE's reporting format for Unoccupied Aerial
 ## Recommended citation
 The citation will be made available upon publication of v1.0.0
 
-## References
-A data package using an early version of this reporting format is available for public access. 
+## Published examples
+Data packages using development versions of this reporting format are available for public access. 
 
 Shawn Serbin, Dedi Yang, Andrew McMahon. 2021. Landscape-scale Characterization of Arctic Tundra Vegetation Composition, Structure, and Function with a Multi-sensor Unoccupied Aerial System: Supporting Data. Next Generation Ecosystem Experiments Arctic Data Collection, Oak Ridge National Laboratory, U.S. Department of Energy, Oak Ridge, Tennessee, USA. https://doi.org/10.5440/1778212.
+
+Dedi Yang, Wouter Hanston, Daniel Hayes, Shawn Serbin. 2022. UAS remote sensing (DJI Phantom 4 RTK platform): RGB orthomosaic, digital surface and canopy height models, plant functional type map, Seward Peninsula, Alaska, 2019. Next Generation Ecosystem Experiments Arctic Data Collection, Oak Ridge National Laboratory, U.S. Department of Energy, Oak Ridge, Tennessee, USA. https://doi.org/10.5440/1906348.
