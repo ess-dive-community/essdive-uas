@@ -183,8 +183,8 @@ The following tables describe data levels, giving examples of data types and fil
 |**Comments**|A map of plant functional types by pixel provided with an estimate of the error or uncertainty for each class.|
 
 ### Foliar nitrogen
-|:----------------------------------------------------|:----------------------------------------------------|
 |**---**|Examples and comments|
+|:----------------------------------------------------|:----------------------------------------------------|
 |**File type examples**|tiff|
 |**File name recommendation**|***_leafN.tiff|
 |**Comments**|A map of estimated leaf nitrogen at the top of the canopy with an estimate of the error or uncertainty for each pixel or image.|
