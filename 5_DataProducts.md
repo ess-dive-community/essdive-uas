@@ -9,6 +9,7 @@ Note that this list is intended to show examples for each data Level, and is not
 ---
 ## Level 0 (L0): raw data collected with the platform
 Level 0 data are raw data directly from the instrumentation on board the UAS platform. In addition, this data should include basic any flight mission telemetry and trigger records that help users identify the location, time, data triggering events needed for post-processing and any corrections or QA/QC of the data.
+
 [Flight mission telemetry and trigger records](#Flight-mission-telemetry-and-trigger-records) |
 [Spectral reflectance json files](#Spectral-reflectance-json-files) |
 [Optical RGB photos](#Optical-RGB-photos) |
@@ -20,6 +21,8 @@ Level 0 data are raw data directly from the instrumentation on board the UAS pla
 [Ground station](#Ground-station) |
 
 ## Level 1 (L1): data products after basic post-processing
+The Level 1 data represent the initial data products derived from the raw L0 measurements. These typically include the use of algorithms and approaches to combine individual measurements or images into a continuous image using approaches and GPS information to provide a georeferenced orthomosaic (i.e. GeoTIFF). Point cloud data from LiDAR systems will often be combined with UAS IMU/GPS positional information to create a single combined dataset referenced to the surface. For optical RGB orthomosaic data, the structure-from-motion derived digital surface model is also typically provided as a L1 product. 
+
 [Optical RGB orthomosaic](#Optical-RGB-orthomosaic) |
 [Digital surface model](#Digital-surface-model) |
 [Thermal IR orthomosaic](#Thermal-IR-orthomosaic) |
@@ -28,6 +31,8 @@ Level 0 data are raw data directly from the instrumentation on board the UAS pla
 [Point clouds](#Point-clouds) |
 
 ## Level 2 (L2): higher-level processed data products
+The Level 2 data represent higher-order processing of the L1 datasets to apply additional QA/QC, corrections or improved geo-registration prior to use in scientific analyses. In addition, L2 products will often include additional processing of height models to derive the vegetation height (canopy height model) and the estimation of the surface terrain without vegetation present (digital terrain model). Both L1 and L2 datasets should be provided with uncertainty estimates for geo-registration and any physical retrievals, at the pixel level or at least the image level (i.e. averaged over the entire orthomosaic). Filenames can include pixel size (grain size) information using the convention indicated, e.g. a 10 cm pixel can be represented as “point01m” in the file name. 
+
 [Georeferenced optical RGB orthomosaic](#Georeferenced-optical-RGB-orthomosaic) |
 [Georeferenced thermal IR orthomosaic](#Georeferenced-thermal-IR-orthomosaic) |
 [Georeferenced optical spectral orthomosaic](#Georeferenced-optical-spectral-orthomosaic) |
@@ -35,6 +40,8 @@ Level 0 data are raw data directly from the instrumentation on board the UAS pla
 [Digital elevation model](#Digital-elevation-model) |
 
 ## Level 3 (L3): higher-level derived data products
+The Level 3 data represent the highest-level of data processing and often utilize additional assumptions, approaches or other data to generate ecosystem data products. Examples include maps of land-cover / land-use, terrain feature mapping and characterization (e.g. polygonal tundra), or plant functional traits (e.g. foliar nitrogen). L3 datasets should include uncertainty estimates for any physical retrievals, at the pixel level or at least the image level (i.e. averaged over the entire orthomosaic).
+
 [Plant functional type (PFT) map](#Plant-functional-type-(PFT)-map) |
 [Foliar nitrogen](#Foliar-nitrogen) |
 
