@@ -31,9 +31,9 @@ This page provides description of the variables included in the Sensor Specifica
 [Spatial pixels](#Spatial-pixels) |
 [F-number](#F-number) |
 [weight](#weight) |
-[Lidar wavelength](#Lidar-wavelength) |
-[Lidar channels](#Lidar-channels) |
-[Lidar range](#Lidar-range) |
+[LiDAR wavelength](#LiDAR-wavelength) |
+[LiDAR channels](#LiDAR-channels) |
+[LiDAR range](#LiDAR-range) |
 [Minimum angular Resolution](#Minimum-angular-Resolution) |
 [Angular resolution](#Angular-resolution) |
 
@@ -97,7 +97,7 @@ This page provides description of the variables included in the Sensor Specifica
 |**Variable name**|FOV|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Unit or format**|degrees|
-|**Description**|The instrument field of view. For lidar specify horizontal and vertical FOV|
+|**Description**|The instrument field of view. For LiDAR specify horizontal and vertical FOV|
 |**Example**|360, 40|
 
 ### ISO
@@ -226,22 +226,22 @@ This page provides description of the variables included in the Sensor Specifica
 |**Description**|Weight of sensor|
 |**Example**|925|
 
-### Lidar wavelength
-|**Variable name**|lidarWavelength|
+### LiDAR wavelength
+|**Variable name**|LiDARWavelength|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Unit or format**|nanometers|
-|**Description**|Lidar beam wavelength|
+|**Description**|LiDAR beam wavelength|
 |**Example**|903|
 
-### Lidar channels
-|**Variable name**|lidarChannels|
+### LiDAR channels
+|**Variable name**|LiDARChannels|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Unit or format**|integer|
-|**Description**|The total number of lidar channels (laser beams) used for data collection|
+|**Description**|The total number of LiDAR channels (laser beams) used for data collection|
 |**Example**|32|
 
-### Lidar range
-|**Variable name**|lidarMeasurementRange|
+### LiDAR range
+|**Variable name**|LiDARMeasurementRange|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Unit or format**|meters|
 |**Description**|Max measurement distance|
@@ -251,7 +251,7 @@ This page provides description of the variables included in the Sensor Specifica
 |**Variable name**|minAngRes|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Unit or format**|degrees|
-|**Description**|Angular resolution of lidar system (Vertical)|
+|**Description**|Angular resolution of LiDAR system (Vertical)|
 |**Example**|0.33|
 
 ### Angular Resolution
