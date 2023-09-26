@@ -36,7 +36,7 @@ The following tables describe data levels, giving examples of data types and fil
 [Foliar nitrogen](#Foliar-nitrogen) |
 
 ### Flight mission telemetry and trigger records
-|**Example**|Notes|
+|**-**|Examples and comments|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**File type examples**|kml, txt, json|
 |**File name recommendation**|[date]_[flight number or record] ID]_[data_description]. e.g. 2018-07-26_flight1_camera_shutter_log.txt|
