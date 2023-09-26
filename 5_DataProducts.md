@@ -22,7 +22,7 @@ The following tables describe data levels, giving examples of data types and fil
 [Thermal IR orthomosaic](#Thermal-IR-orthomosaic) |
 [At-surface spectral reflectance](#At-surface-spectral-reflectance) |
 [At-surface spectral reflectance orthomosaic](#At-surface-spectral-reflectance-orthomosaic) |
-[Point clouds](#Point-clouds)|
+[Point clouds](#Point-clouds) |
 
 ## Level 2 (L2): higher-level processed data products
 [Georeferenced optical RGB orthomosaic](#Georeferenced-optical-RGB-orthomosaic) |
@@ -36,6 +36,7 @@ The following tables describe data levels, giving examples of data types and fil
 [Foliar nitrogen](#Foliar-nitrogen) |
 
 ### Flight mission telemetry and trigger records
+|**Example**|Notes|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**File type examples**|kml, txt, json|
 |**File name recommendation**|[date]_[flight number or record] ID]_[data_description]. e.g. 2018-07-26_flight1_camera_shutter_log.txt|
