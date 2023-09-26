@@ -19,7 +19,7 @@ This page provides description of the variables included in the Platform Descrip
 [IMU](#IMU) |
 [Radio and telemetry](#Radio-and-telemetry) |
 [Handheld remote control](#Handheld-remote-control) |
-[Platform images  available ](#Platform-images-available) |
+[Platform images available ](#Platform-images-available) |
 
 ### Manufacturer and model
 |**Variable name**|makeModel|
