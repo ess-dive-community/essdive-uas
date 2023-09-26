@@ -6,34 +6,34 @@ The following tables describe data levels, giving examples of data types and fil
 
 ---
 ## Level 0 (L0): raw data collected with the platform
-[Flight mission telemetry and trigger records](#Flight-mission-telemetry-and-trigger-records)|
-[Spectral reflectance json files](#Spectral-reflectance-json-files)|
-[Optical RGB photos](#Optical-RGB-photos)|
-[Spectral datacube image](#Spectral-datacube-image)|
-[Multispectral image](#Multispectral-image)|
-[Multispectral calibration image](#Multispectral-calibration-image)|
-[Calibration panel reflectance reference](#Calibration-panel-reflectance-reference)|
-[Thermal IR images](#Thermal-IR-images)|
-[Ground station](#Ground-station)|
+[Flight mission telemetry and trigger records](#Flight-mission-telemetry-and-trigger-records) |
+[Spectral reflectance json files](#Spectral-reflectance-json-files) |
+[Optical RGB photos](#Optical-RGB-photos) |
+[Spectral datacube image](#Spectral-datacube-image) |
+[Multispectral image](#Multispectral-image) |
+[Multispectral calibration image](#Multispectral-calibration-image) |
+[Calibration panel reflectance reference](#Calibration-panel-reflectance-reference) |
+[Thermal IR images](#Thermal-IR-images) |
+[Ground station](#Ground-station) |
 
 ## Level 1 (L1): data products after basic post-processing
-[Optical RGB orthomosaic](#Optical-RGB-orthomosaic)|
-[Digital surface model](#Digital-surface-model)|
-[Thermal IR orthomosaic](#Thermal-IR-orthomosaic)|
-[At-surface spectral reflectance](#At-surface-spectral-reflectance)|
-[At-surface spectral reflectance orthomosaic](#At-surface-spectral-reflectance-orthomosaic)|
+[Optical RGB orthomosaic](#Optical-RGB-orthomosaic) |
+[Digital surface model](#Digital-surface-model) |
+[Thermal IR orthomosaic](#Thermal-IR-orthomosaic) |
+[At-surface spectral reflectance](#At-surface-spectral-reflectance) |
+[At-surface spectral reflectance orthomosaic](#At-surface-spectral-reflectance-orthomosaic) |
 [Point clouds](#Point-clouds)|
 
 ## Level 2 (L2): higher-level processed data products
-[Georeferenced optical RGB orthomosaic](#Georeferenced-optical-RGB-orthomosaic)|
-[Georeferenced thermal IR orthomosaic](#Georeferenced-thermal-IR-orthomosaic)|
-[Georeferenced optical spectral orthomosaic](#Georeferenced-optical-spectral-orthomosaic)|
-[Canopy height model](#Canopy-height-model)|
-[Digital elevation model](#Digital-elevation-model)|
+[Georeferenced optical RGB orthomosaic](#Georeferenced-optical-RGB-orthomosaic) |
+[Georeferenced thermal IR orthomosaic](#Georeferenced-thermal-IR-orthomosaic) |
+[Georeferenced optical spectral orthomosaic](#Georeferenced-optical-spectral-orthomosaic) |
+[Canopy height model](#Canopy-height-model) |
+[Digital elevation model](#Digital-elevation-model) |
 
 ## Level 3 (L3): higher-level derived data products
-[Plant functional type (PFT) map](#Plant-functional-type-(PFT)-map)|
-[Foliar nitrogen](#Foliar-nitrogen)|![image](https://github.com/ess-dive-community/essdive-uas/assets/13078587/5334050d-648b-411f-9cea-067cbc45b32a)
+[Plant functional type (PFT) map](#Plant-functional-type-(PFT)-map) |
+[Foliar nitrogen](#Foliar-nitrogen) |
 
 ### Flight mission telemetry and trigger records
 |:----------------------------------------------------|:----------------------------------------------------|
