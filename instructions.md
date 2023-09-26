@@ -12,6 +12,8 @@ A data package containing UAS data should include the following:
 
 5. Data products identified by processing level. Data from one or more processing levels may be included.
 
+6. For submission to ESS-DIVE, data packages should include the csv data decription file (found [here](https://github.com/ess-dive-community/essdive-uas/blob/main/templates/UAS_CSV_dd.csv) in Templates), and a [file-level metadata file (FLMD)](https://github.com/ess-dive-community/essdive-file-level-metadata).
+
 See the individual pages for each metadata type for variable names, requirement levels (i.e. required, recommended, optional) and full descriptions. Templates are provided for each metadata category. 
 
 ## Additional information
