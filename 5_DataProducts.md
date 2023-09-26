@@ -45,6 +45,7 @@ The Level 3 data represent the highest-level of data processing and often utiliz
 [Plant functional type (PFT) map](#Plant-functional-type-(PFT)-map) |
 [Foliar nitrogen](#Foliar-nitrogen) |
 
+## Level 0 (L0): raw data collected with the platform
 ### Flight mission telemetry and trigger records
 |**---**|Examples and comments|
 |:----------------------------------------------------|:----------------------------------------------------|
@@ -185,6 +186,7 @@ The Level 3 data represent the highest-level of data processing and often utiliz
 |**File name recommendation**|***_ GeoAligned _DEM_point01m.tiff|
 |**Comments**|The estimated surface or terrain elevation derived with the point cloud data from LiDAR or structure-from-motion and removing the vegetation (if present).|
 
+## Level 3 (L3): higher-level derived data products
 ### Plant functional type (PFT) map
 |**---**|Examples and comments|
 |:----------------------------------------------------|:----------------------------------------------------|
