@@ -1,0 +1,77 @@
+﻿Column_or_Row_Name,Unit,Definition,Data_Type
+Project,N/A,Project name ,text
+contact,N/A,List the person who should be contacted by users seeking further information for the data. Only one contact is allowed. Including the ORCID of this individual is strongly encouraged.,text
+pilot,N/A,List the name and contact details of the Pilot in Command (PIC). Include FAA pilot license number if applicable. ,text
+locationDescription,N/A,"Geographic place name, including Place, State, Country",text
+locationID,N/A,Identifiers of any sites or plots within flight area,text
+date_Start,YYYY-MM-DD,Date of first flight in data package,dateTime
+date_End,YYYY-MM-DD,Date of last flight in data package,dateTime
+numFlights,N/A,Total number of flights for which data included,numeric
+flightTimeAvg,minutes,Average flight time of missions,numeric
+flightTimeTotal,minutes,Total flight time of missions (alternative to using numFlights and flightTimeAvg),numeric
+permits,N/A,"List land permits, waivers and Certificates of Waiver or Authorization (COA). Can include documents in the data package.",text
+baseStation,N/A,"Base station GPS coordinates, model and type of GNSS data collected. Self-deployed vs CORS network station. If CORS record ID of CORS station(s) (e.g. AB11) and provide raw base station data in data submission.",text
+geoRef,N/A,Geospatial reference system used,text
+makeModel,N/A,Manufacturer and model of airframe,text
+airframeType,N/A,Type of airframe,text
+maxWeight,kilograms,Maximum takeoff gross weight of system including airframe,numeric
+serialNum,N/A,Platform serial number,text
+registration,N/A,"Platform registration details, e.g. FAA registration number",text
+motorType,N/A,Manufacturer and model of motor types,text
+propellorType,N/A,Manufacturer and model of propellor types,text
+flightController,N/A,Manufacturer and model of flight controller,text
+batteryType,N/A,"Battery type (cells, peak voltage, connectors)",text
+gimbalType,N/A,Manufacturer and model of gimbal types,text
+navigation,N/A,GPS make/model and supported GNSS modes,text
+imu,N/A,Inertial Measurement Unit model,text
+radioModel,N/A,Manufacturer and model of radios,text
+controlModel,N/A,Manufacturer and model of handheld remote control,text
+platformImages,N/A,Indicate if photos or diagrams showing the platform and payload configuration are included in the data package.,text
+flightIdentifier,N/A,Individual flight identifier,text
+siteIdentifier,N/A,Site name,text
+DateTime_Start,YYYY-MM-DD HH:MM:SS,Start of flight date and time,dateTime
+DateTime_End,YYYY-MM-DD HH:MM:SS,End of flight date and time,dateTime
+flightBound,N/A,Boundary of flight area,text
+flightHeight,m,"Flight height program setting, indicate AGL (above ground level) or AMSL (height above average mean sea level)",numeric
+forwardOverlap,percentage,Forward overlap program setting,numeric
+sideOverlap,percentage,Side overlap program setting,numeric
+flightSpeed,m/s,Flight speed program setting,numeric
+weatherCondition,N/A,"Summary of wind speed, temperature, cloud cover",text
+brightness,N/A,Descriptor of light quality during flight,text
+lightType,N/A,Descriptor of light type during flight,text
+cloudCover,percentage,Estimate of percentage cloud cover during flight,numeric
+cloudType,N/A,Dominant cloud cover type during flight,text
+surfaceWetness,N/A,Descriptor of surface moisture conditions,text
+lastRain,N/A,Days since last rain event,numeric
+sensorType,N/A,Type of sensing system,text
+makeModel,N/A,Manufacturer and model of sensor,text
+serialNum,N/A,Instrument serial number,text
+calibrationDate,YYYY-MM-DD,Date of last calibration,date
+Foreoptic,N/A,"Specifications of the foreoptic used for data collection. A foreoptic could be an optical lens, a fiber optic, a combined fiber optic+lens, etc. Include serial numbers if applicable. ",text
+imageSize,N/A,Image size in pixels,text
+shutterSpeed,s,Camera shutter speed. Can be fixed for all flights or a range of values if variable. ,numeric
+focalLength,numeric,Instrument focal length,numeric
+FOV,degrees,The instrument field of view. For LiDAR specify horizontal and vertical FOV,numeric
+ISO,N/A,ISO light sensitivity setting. Can be fixed for all flights or a range of values if variable. ,numeric
+focus,N/A,Camera focus setting. List all that were used,text
+whiteBalance,N/A,Camera white balance settings used. List all settings used during campaign. ,text
+quant,N/A,Image bit depth,text
+fileFormat,N/A,Sensor output file format,text
+sensorUnits,N/A,The measurement units output by the sensor,text
+accuracy,N/A,Instrument/sensor measurement accuracy as per manufacturer specifications,text
+precision,N/A,Instrument/sensor measurement precision as per manufacturer specifications,text
+sensitivity,N/A,Instrument sensitivity as per manufacturer specifications. The smallest difference between two features that is detectable by the sensor.,text
+frameRate,Hz,Measurement frame rate or speed,numeric
+spectralResponseFunction,N/A,Indicate if spectral response functions are included in data package,text
+integrationTime,N/A,Measurement integration time. Can be fixed value or range. ,text
+spectralRange,N/A,Instrument measurement wavelength range. Can be more than one if a co-aligned instrument,text
+spectralRes,N/A,Instrument measurement resolution. Can be more than one if a co-aligned instrument,text
+navSystem,N/A,Make/Model of GNSS Inertial Measurement Unit used with the sensing system,text
+spatialPixels,N/A,For each sensor plus combined,numeric
+Fnumber,N/A,The fixed or selected aperture size for the data collection,numeric
+weight,grams,Weight of sensor,numeric
+lidarWavelength,nanometers,Lidar beam wavelength,numeric
+lidarChannels,N/A,The total number of LiDAR channels (laser beams) used for data collection,numeric
+lidarMeasurementRange,meters,Max measurement distance,numeric
+minAngRes,degrees,Angular resolution of LiDAR system (Vertical),numeric
+angRes,degrees,Angular Resolution (Horizontal/Azimuth):,numeric
