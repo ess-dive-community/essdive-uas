@@ -3,7 +3,8 @@
 This page provides description of the variables included in the Sensor Specification metadata. Use this to guide completion of a Sensor Specification metadata [template](https://github.com/ess-dive-community/essdive-uas/tree/main/templates) for each sensor. Refer to the [Sensor metadata requirement level](https://github.com/ess-dive-community/essdive-uas/blob/main/4b_SensorReqLevel.md) for guidance on which variables are required, recommended, optional or not applicable for different sensor types. 
 
 ---  
-## Sensor Specification Metadata Content - Click links below for full description. See [Sensor metadata requirement level](https://github.com/ess-dive-community/essdive-uas/blob/main/4b_SensorReqLevel.md) for requirement levels for each sensor type. 
+## Sensor Specification Metadata Content - Click links below for full description. 
+See [Sensor metadata requirement level](https://github.com/ess-dive-community/essdive-uas/blob/main/4b_SensorReqLevel.md) for requirement levels for each sensor type. 
 [Sensor type](#Sensor-type) |
 [Manufacturer and model](#Manufacturer-and-model) |
 [Serial number](#Serial-number) |
