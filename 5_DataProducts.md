@@ -4,7 +4,7 @@ A scheme of data Levels allows data users to clearly identify the types of data 
 
 The following tables describe data levels, giving examples of data types and file formats. With ‘File name convention’, the *** represents a prefix for a flight or campaign. This prefix should represent on the study site, acquisition date, and/or flight identification as appropriate.
 
-### content coming soon
+---
 ## Level 0 (L0): raw data collected with the platform
 [Flight mission telemetry and trigger records](#Flight-mission-telemetry-and-trigger-records)|
 [Spectral reflectance json files](#Spectral-reflectance-json-files)|
@@ -34,6 +34,7 @@ The following tables describe data levels, giving examples of data types and fil
 ## Level 3 (L3): higher-level derived data products
 [Plant functional type (PFT) map](#Plant-functional-type-(PFT)-map)|
 [Foliar nitrogen](#Foliar-nitrogen)|![image](https://github.com/ess-dive-community/essdive-uas/assets/13078587/5334050d-648b-411f-9cea-067cbc45b32a)
+
 ### Flight mission telemetry and trigger records
 |:----------------------------------------------------|:----------------------------------------------------|
 |**File type examples**|kml, txt, json|
