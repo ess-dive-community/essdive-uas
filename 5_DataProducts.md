@@ -109,6 +109,7 @@ The Level 3 data represent the highest-level of data processing and often utiliz
 |**File name recommendation**|[date]_[flight number or record ID]_[gps].txt|
 |**Comments**|GNSS ground station raw and post-processed data.|
 
+## Level 1 (L1): data products after basic post-processing
 ### Optical RGB orthomosaic
 |**---**|Examples and comments|
 |:----------------------------------------------------|:----------------------------------------------------|
@@ -151,6 +152,7 @@ The Level 3 data represent the highest-level of data processing and often utiliz
 |**File name recommendation**|***_CloudPoints.las OR ***_CloudPoints.laz|
 |**Comments**|This should be the georeferenced, classified if possible, LiDAR or SfM cloud points.|
 
+## Level 2 (L2): higher-level processed data products
 ### Georeferenced optical RGB orthomosaic
 |**---**|Examples and comments|
 |:----------------------------------------------------|:----------------------------------------------------|
