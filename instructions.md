@@ -1,4 +1,4 @@
-# Reporting format for Unoccupied Aerial System (UAS) data and metadata instructions (beta)
+# Reporting format for Unoccupied Aerial System (UAS) data and metadata instructions
 
 A data package containing UAS data should include the following: 
 
