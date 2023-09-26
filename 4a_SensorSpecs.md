@@ -227,21 +227,21 @@ This page provides description of the variables included in the Sensor Specifica
 |**Example**|925|
 
 ### LiDAR wavelength
-|**Variable name**|LiDARWavelength|
+|**Variable name**|lidarWavelength|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Unit or format**|nanometers|
 |**Description**|LiDAR beam wavelength|
 |**Example**|903|
 
 ### LiDAR channels
-|**Variable name**|LiDARChannels|
+|**Variable name**|lidarChannels|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Unit or format**|integer|
 |**Description**|The total number of LiDAR channels (laser beams) used for data collection|
 |**Example**|32|
 
 ### LiDAR range
-|**Variable name**|LiDARMeasurementRange|
+|**Variable name**|lidarMeasurementRange|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Unit or format**|meters|
 |**Description**|Max measurement distance|
