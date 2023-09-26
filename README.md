@@ -10,14 +10,6 @@ Parts 1-4 provide guidance and templates for metadata associated with the campai
 ## How to contribute
 Comments, questions and suggestions for improvement of this reporting format and documentation may be made by opening an [Issue](https://github.com/ess-dive-community/essdive-uas/issues). We also encourage contributors to make use of the [Discussions](https://github.com/ess-dive-community/essdive-uas/discussions).   
 
-## Liscensing information
-This repository content is license for use under the [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/)
-
-## Funding and acknowledgments
-Funding for the development of ESS-DIVE's reporting format for Unoccupied Aerial System (UAS) data and metadata was provided by the U.S. Department of Energy, Office of Science, Office of Biological and Environmental Research, Climate and Environmental Science Division, Data Management program under contract number DE-AC02-05CH11231.
-
-We would like to acknowledge the following people for their contributions to the content and structure of this reporting format: Christian G. Andresen, Yose Angel, Adam Collins, Brett Fedderson, Sean Freeman, Peng Fu, Brian Greene, Wouter Hanston, Mark J. Lara, David LeBauer, Trina Merrick, Alexey Shiklomanov, Matthias Siewert, Charaluka Varadharajan and Jin Wu.
-
 ## Recommended citation
 The citation will be made available upon publication of v1.0.0
 
@@ -27,3 +19,12 @@ Data packages using development versions of this reporting format are available 
 Shawn Serbin, Dedi Yang, Andrew McMahon. 2021. Landscape-scale Characterization of Arctic Tundra Vegetation Composition, Structure, and Function with a Multi-sensor Unoccupied Aerial System: Supporting Data. Next Generation Ecosystem Experiments Arctic Data Collection, Oak Ridge National Laboratory, U.S. Department of Energy, Oak Ridge, Tennessee, USA. https://doi.org/10.5440/1778212.
 
 Dedi Yang, Wouter Hanston, Daniel Hayes, Shawn Serbin. 2022. UAS remote sensing (DJI Phantom 4 RTK platform): RGB orthomosaic, digital surface and canopy height models, plant functional type map, Seward Peninsula, Alaska, 2019. Next Generation Ecosystem Experiments Arctic Data Collection, Oak Ridge National Laboratory, U.S. Department of Energy, Oak Ridge, Tennessee, USA. https://doi.org/10.5440/1906348.
+
+## Liscensing information
+This repository content is license for use under the [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/)
+
+## Funding and acknowledgments
+Funding for the development of ESS-DIVE's reporting format for Unoccupied Aerial System (UAS) data and metadata was provided by the U.S. Department of Energy, Office of Science, Office of Biological and Environmental Research, Climate and Environmental Science Division, Data Management program under contract number DE-AC02-05CH11231.
+
+We would like to acknowledge the following people for their contributions to the content and structure of this reporting format: Christian G. Andresen, Yose Angel, Adam Collins, Brett Fedderson, Sean Freeman, Peng Fu, Brian Greene, Wouter Hanston, Mark J. Lara, David LeBauer, Trina Merrick, Alexey Shiklomanov, Matthias Siewert, Charaluka Varadharajan and Jin Wu.
+
