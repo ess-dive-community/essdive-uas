@@ -5,9 +5,10 @@ This reporting format provides metadata requirements and format guidelines for u
 
 ## Instructions
 See the [Instructions](https://github.com/ess-dive-community/essdive-uas/blob/main/instructions.md) for how to use the format. 
+Parts 1-4 provide guidance and templates for metadata associated with the campaign, platform, flights and sensors. Part 5 describes examples of UAS data products classified as product Levels depending on the degree of processing. 
 
 ## How to contribute
-Comments and suggestions for improvement of this reporting format and documentation may be made by opening an [Issue](https://github.com/ess-dive-community/essdive-uas/issues). We also encourage contributors to make use of the [Discussions](https://github.com/ess-dive-community/essdive-uas/discussions).   
+Comments, questions and suggestions for improvement of this reporting format and documentation may be made by opening an [Issue](https://github.com/ess-dive-community/essdive-uas/issues). We also encourage contributors to make use of the [Discussions](https://github.com/ess-dive-community/essdive-uas/discussions).   
 
 ## Liscensing information
 This repository content is license for use under the [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/)
