@@ -4,8 +4,8 @@ contact,N/A,List the person who should be contacted by users seeking further inf
 pilot,N/A,List the name and contact details of the Pilot in Command (PIC). Include FAA pilot license number if applicable. ,text
 locationDescription,N/A,"Geographic place name, including Place, State, Country",text
 locationID,N/A,Identifiers of any sites or plots within flight area,text
-date_Start,YYYY-MM-DD,Date of first flight in data package,dateTime
-date_End,YYYY-MM-DD,Date of last flight in data package,dateTime
+date_Start,YYYY-MM-DD,Date of first flight in data package,datetime
+date_End,YYYY-MM-DD,Date of last flight in data package,datetime
 numFlights,N/A,Total number of flights for which data included,numeric
 flightTimeAvg,minutes,Average flight time of missions,numeric
 flightTimeTotal,minutes,Total flight time of missions (alternative to using numFlights and flightTimeAvg),numeric
@@ -29,10 +29,10 @@ controlModel,N/A,Manufacturer and model of handheld remote control,text
 platformImages,N/A,Indicate if photos or diagrams showing the platform and payload configuration are included in the data package.,text
 flightIdentifier,N/A,Individual flight identifier,text
 siteIdentifier,N/A,Site name,text
-DateTime_Start,YYYY-MM-DD HH:MM:SS,Start of flight date and time,dateTime
-DateTime_End,YYYY-MM-DD HH:MM:SS,End of flight date and time,dateTime
+DateTime_Start,YYYY-MM-DD HH:MM:SS,Start of flight date and time,datetime
+DateTime_End,YYYY-MM-DD HH:MM:SS,End of flight date and time,datetime
 flightBound,N/A,Boundary of flight area,text
-flightHeight,m,"Flight height program setting, indicate AGL (above ground level) or AMSL (height above average mean sea level)",numeric
+flightHeight,m,"Flight height program setting, indicate AGL (above ground level) or AMSL (height above average mean sea level)",text
 forwardOverlap,percentage,Forward overlap program setting,numeric
 sideOverlap,percentage,Side overlap program setting,numeric
 flightSpeed,m/s,Flight speed program setting,numeric
@@ -68,7 +68,7 @@ spectralRange,N/A,Instrument measurement wavelength range. Can be more than one 
 spectralRes,N/A,Instrument measurement resolution. Can be more than one if a co-aligned instrument,text
 navSystem,N/A,Make/Model of GNSS Inertial Measurement Unit used with the sensing system,text
 spatialPixels,N/A,For each sensor plus combined,numeric
-Fnumber,N/A,The fixed or selected aperture size for the data collection,numeric
+Fnumber,N/A,The fixed or selected aperture size for the data collection,text
 weight,grams,Weight of sensor,numeric
 lidarWavelength,nanometers,Lidar beam wavelength,numeric
 lidarChannels,N/A,The total number of LiDAR channels (laser beams) used for data collection,numeric
