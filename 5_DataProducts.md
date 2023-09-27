@@ -4,7 +4,7 @@ A scheme of data Levels is proposed to allow data users to clearly identify the 
 
 The following tables describe data levels, giving examples of data types and file formats. With ‘File name recommendations’, the *** represents a prefix for a flight or campaign. This prefix should represent the study site, acquisition date, and/or flight identification as appropriate. 
 
-Note that this list is intended to show examples for each data Level, and is not exhaustive of all possible products or file formats. csv file types should follow the [ESS-DIVE Reporting Format for Comma-separated Values (CSV) File Structure](https://github.com/ess-dive-community/essdive-csv-structure)
+Note that this list is intended to show examples for each data Level, and is not exhaustive of all possible products or file formats. csv file types should follow the [ESS-DIVE Reporting Format for Comma-separated Values File Structure](https://github.com/ess-dive-community/essdive-csv-structure)
 
 ---
 ## Level 0 (L0): raw data collected with the platform
