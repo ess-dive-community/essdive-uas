@@ -215,7 +215,7 @@ This page provides description of the variables included in the Sensor Specifica
 ### F-number
 |**Variable name**|Fnumber|
 |:----------------------------------------------------|:----------------------------------------------------|
-|**Unit or format**|numeric|
+|**Unit or format**|free text|
 |**Description**|The fixed or selected aperture size for the data collection|
 |**Example**|F/4|
 
