@@ -38,7 +38,7 @@ Use this to guide completion of the [Sensor Specification metadata template](htt
 |Spatial pixels|spatialPixels|**x**|&#9679;|**x**|&#9679;|**x**|
 |F-number|Fnumber|&#9679;|&#9679;|**x**|&#9675;|**x**|
 |weight|weight|&#9675;|&#9675;|&#9675;|&#9675;|&#9677;|
-|LiDar wavelength|lidarWavelength|**x**|**x**|**x**|**x**|&#9679;|
+|LiDAR wavelength|lidarWavelength|**x**|**x**|**x**|**x**|&#9679;|
 |LiDAR channels|lidarChannels|**x**|**x**|**x**|**x**|&#9679;|
 |LiDAR range|lidarMeasurementRange|**x**|**x**|**x**|**x**|&#9677;|
 |Minimum angular Resolution|minAngRes|**x**|**x**|**x**|**x**|&#9677;|
