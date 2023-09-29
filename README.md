@@ -26,5 +26,5 @@ This repository content is license for use under the [CC BY 4.0 license](https:/
 ## Funding and acknowledgments
 Funding for the development of ESS-DIVE's reporting format for Unoccupied Aerial System (UAS) data and metadata was provided by the U.S. Department of Energy, Office of Science, Office of Biological and Environmental Research, Climate and Environmental Science Division, Data Management program under contract number DE-AC02-05CH11231.
 
-We would like to acknowledge the following people for their contributions to the content and structure of this reporting format: Christian G. Andresen, Yose Angel, Adam Collins, Brett Fedderson, Sean Freeman, Peng Fu, Brian Greene, Wouter Hanston, Mark J. Lara, David LeBauer, Trina Merrick, Alexey Shiklomanov, Matthias Siewert, Charaluka Varadharajan and Jin Wu.
+We would like to acknowledge the following people for their contributions to the content and structure of this reporting format: Christian G. Andresen, Yose Angel, Adam Collins, Brett Fedderson, Sean Freeman, Peng Fu, Brian Greene, Wouter Hanston, Mark J. Lara, David LeBauer, Trina Merrick, Emily Robles, Alexey Shiklomanov, Matthias Siewert, Charaluka Varadharajan and Jin Wu.
 
