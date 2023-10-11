@@ -19,7 +19,7 @@ This page provides description of the variables included in the Campaign Summary
 [Geospatial reference](#Geospatial-reference) |
 
 ### Project
-|**Variable Name**|Project|
+|**Variable Name**|project|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Requirement level**|`required`|
 |**Unit or format**|controlled list (ESS-DIVE) or free text|
@@ -43,7 +43,7 @@ This page provides description of the variables included in the Campaign Summary
 |**Example**|First name, Last name, Organization, Email, FAA license number|
 
 ### Location description
-|**Variable Name**|locationDescription|
+|**Variable Name**|location_description|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Requirement level**|`required`|
 |**Unit or format**|free text|
@@ -51,7 +51,7 @@ This page provides description of the variables included in the Campaign Summary
 |**Example**|Seward Peninsula, AK, USA|
 
 ### Location identifier
-|**Variable Name**|locationID|
+|**Variable Name**|location_id|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Requirement level**|`optional`|
 |**Unit or format**|free text|
@@ -59,7 +59,7 @@ This page provides description of the variables included in the Campaign Summary
 |**Example**|Plot 4, Intensive site 1|
 
 ### Start date
-|**Variable Name**|date_Start|
+|**Variable Name**|date_start|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Requirement level**|`required`|
 |**Unit or format**|yyyy-mm-dd|
@@ -67,7 +67,7 @@ This page provides description of the variables included in the Campaign Summary
 |**Example**|2022-02-02|
 
 ### End Date
-|**Variable Name**|date_End|
+|**Variable Name**|date_end|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Requirement level**|`required`|
 |**Unit or format**|yyyy-mm-dd|
@@ -75,7 +75,7 @@ This page provides description of the variables included in the Campaign Summary
 |**Example**|2022-02-04|
 
 ### Total number of flights
-|**Variable Name**|numFlights|
+|**Variable Name**|num_flights|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Requirement level**|`optional`|
 |**Unit or format**|integer|
@@ -83,7 +83,7 @@ This page provides description of the variables included in the Campaign Summary
 |**Example**|5|
 
 ### Average flight time
-|**Variable Name**|flightTimeAvg|
+|**Variable Name**|flight_time_avg|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Requirement level**|`optional`|
 |**Unit or format**|minutes|
@@ -91,7 +91,7 @@ This page provides description of the variables included in the Campaign Summary
 |**Example**|21|
 
 ### Total flight time
-|**Variable Name**|flightTimeTotal|
+|**Variable Name**|flight_time_total|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Requirement level**|`optional`|
 |**Unit or format**|minutes|
@@ -107,7 +107,7 @@ This page provides description of the variables included in the Campaign Summary
 |**Example**|permit.pdf|
 
 ### Base station
-|**Variable Name**|baseStation|
+|**Variable Name**|base_station|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Requirement level**|`recommended`|
 |**Unit or format**|free text|
@@ -115,7 +115,7 @@ This page provides description of the variables included in the Campaign Summary
 |**Example**|Lat 70.123456 Lon -100.123456; Emlid RS2 collecting GPS, Beidou, Galileo and GLONASS data; CORS:AB11|
 
 ### Geospatial reference
-|**Variable Name**|geoRef|
+|**Variable Name**|geo_ref|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Requirement level**|`required`|
 |**Unit or format**|free text|
