@@ -22,7 +22,7 @@ This page provides description of the variables included in the Flight Detail me
 [Days since last rain event](#Days-since-last-rain-event) |
 
 ### Flight name
-|**Variable name**|flightIdentifier|
+|**Variable name**|flight_identifier|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Requirement level**|`required`|
 |**Unit or format**|free text|
@@ -30,7 +30,7 @@ This page provides description of the variables included in the Flight Detail me
 |**Example**|KG014|
 
 ### Site
-|**Variable name**|siteIdentifier|
+|**Variable name**|site_identifier|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Requirement level**|`required`|
 |**Unit or format**|free text|
@@ -38,7 +38,7 @@ This page provides description of the variables included in the Flight Detail me
 |**Example**|Kougarok Road MM64|
 
 ### Start date time
-|**Variable name**|DateTime_Start|
+|**Variable name**|date_time_start|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Requirement level**|`required`|
 |**Unit or format**|YYYY-MM-DD HH:MM:SS|
@@ -46,7 +46,7 @@ This page provides description of the variables included in the Flight Detail me
 |**Example**|2018-07-26 03:27:56 UTC|
 
 ### End date time
-|**Variable name**|DateTime_End|
+|**Variable name**|date_time_end|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Requirement level**|`required`|
 |**Unit or format**|YYYY-MM-DD HH:MM:SS|
@@ -54,7 +54,7 @@ This page provides description of the variables included in the Flight Detail me
 |**Example**|2018-07-26 03:32:51 UTC|
 
 ### Flight boundary
-|**Variable name**|flightBound|
+|**Variable name**|flight_bound|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Requirement level**|`required`|
 |**Unit or format**|free text|
@@ -62,7 +62,7 @@ This page provides description of the variables included in the Flight Detail me
 |**Example**|See kmz file|
 
 ### Flight height
-|**Variable name**|flightHeight|
+|**Variable name**|flight_height|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Requirement level**|`required`|
 |**Unit or format**|m|
@@ -70,7 +70,7 @@ This page provides description of the variables included in the Flight Detail me
 |**Example**|40 AGL|
 
 ### Forward overlap
-|**Variable name**|forwardOverlap|
+|**Variable name**|forward_overlap|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Requirement level**|`required`|
 |**Unit or format**|percentage|
@@ -78,7 +78,7 @@ This page provides description of the variables included in the Flight Detail me
 |**Example**|85|
 
 ### Side overlap
-|**Variable name**|sideOverlap|
+|**Variable name**|side_overlap|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Requirement level**|`required`|
 |**Unit or format**|percentage|
@@ -86,7 +86,7 @@ This page provides description of the variables included in the Flight Detail me
 |**Example**|85|
 
 ### Flight speed
-|**Variable name**|flightSpeed|
+|**Variable name**|flight_speed|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Requirement level**|`required`|
 |**Unit or format**|m/s|
@@ -94,7 +94,7 @@ This page provides description of the variables included in the Flight Detail me
 |**Example**|5|
 
 ### Weather conditions
-|**Variable name**|weatherCondition|
+|**Variable name**|weather_condition|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Requirement level**|`optional`|
 |**Unit or format**|free text|
@@ -110,14 +110,14 @@ This page provides description of the variables included in the Flight Detail me
 |**Example**|bright|
 
 ### Light type
-|**Variable name**|lightType|
+|**Variable name**|light_type|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Requirement level**|`optional`|
 |**Unit or format**|free text or controlled vocabulary: direct/diffuse/variable|
 |**Description**|Descriptor of light type during flight|
 |**Example**|direct|
 ### Cloud cover
-|**Variable name**|cloudCover|
+|**Variable name**|cloud_cover|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Requirement level**|`optional`|
 |**Unit or format**|percentage|
@@ -125,7 +125,7 @@ This page provides description of the variables included in the Flight Detail me
 |**Example**|50|
 
 ### Cloud type
-|**Variable name**|cloudType|
+|**Variable name**|cloud_type|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Requirement level**|`optional`|
 |**Unit or format**|free text|
@@ -133,7 +133,7 @@ This page provides description of the variables included in the Flight Detail me
 |**Example**|cirrus|
 
 ### Surface wetness
-|**Variable name**|surfaceWetness|
+|**Variable name**|surface_wetness|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Requirement level**|`optional`|
 |**Unit or format**|free text or controlled vocabulary: dry/moist/wet|
@@ -141,7 +141,7 @@ This page provides description of the variables included in the Flight Detail me
 |**Example**|dry|
 
 ### Days since last rain event
-|**Variable name**|lastRain|
+|**Variable name**|last_rain|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Requirement level**|`optional`|
 |**Unit or format**|numeric|

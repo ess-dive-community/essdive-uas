@@ -38,28 +38,28 @@ This page provides description of the variables included in the Sensor Specifica
 [Angular resolution](#Angular-resolution) |
 
 ### Sensor type
-|**Variable name**|sensorType|
+|**Variable name**|sensor_type|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Unit or format**|free text|
 |**Description**|Type of sensing system|
 |**Example**|Thermal camera|
 
 ### Manufacturer and model
-|**Variable name**|makeModel|
+|**Variable name**|make_model|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Unit or format**|free text|
 |**Description**|Manufacturer and model of sensor|
 |**Example**|Canon EOS M6|
 
 ### Serial number
-|**Variable name**|serialNum|
+|**Variable name**|instrument_serial_num|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Unit or format**|free text|
 |**Description**|Instrument serial number|
 |**Example**|6001194|
 
 ### Calibration date
-|**Variable name**|calibrationDate|
+|**Variable name**|calibration_date|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Unit or format**|YYYY-MM-DD|
 |**Description**|Date of last calibration|
@@ -73,35 +73,35 @@ This page provides description of the variables included in the Sensor Specifica
 |**Example**|Canon Zoom Lens EF-M 15-45 mm with a neutral density filter; Fiber optic cable with a variable FOV optical lens; None|
 
 ### Image area and size
-|**Variable name**|imageSize|
+|**Variable name**|image_size|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Unit or format**|free text|
 |**Description**|Image size in pixels|
 |**Example**|DX 6000 _ 4000 = 24 megapixel|
 
 ### Shutter speed
-|**Variable name**|shutterSpeed|
+|**Variable name**|shutter_speed|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Unit or format**|s|
 |**Description**|Camera shutter speed. Can be fixed for all flights or a range of values if variable.|
 |**Example**|1/200|
 
 ### Focal length
-|**Variable name**|focalLength|
+|**Variable name**|focal_length|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Unit or format**|numeric|
 |**Description**|Instrument focal length|
 |**Example**|35mm, 18-55mm|
 
 ### FOV
-|**Variable name**|FOV|
+|**Variable name**|fov|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Unit or format**|degrees|
 |**Description**|The instrument field of view. For LiDAR specify horizontal and vertical FOV|
 |**Example**|360, 40|
 
 ### ISO
-|**Variable name**|ISO|
+|**Variable name**|iso|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Unit or format**|numeric|
 |**Description**|ISO light sensitivity setting. Can be fixed for all flights or a range of values if variable.|
@@ -115,7 +115,7 @@ This page provides description of the variables included in the Sensor Specifica
 |**Example**|auto, infinity|
 
 ### White balance
-|**Variable name**|whiteBalance|
+|**Variable name**|white_balance|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Unit or format**|free text|
 |**Description**|Camera white balance settings used. List all settings used during campaign.|
@@ -129,14 +129,14 @@ This page provides description of the variables included in the Sensor Specifica
 |**Example**|12-bit|
 
 ### File format
-|**Variable name**|fileFormat|
+|**Variable name**|file_format|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Unit or format**|free text|
 |**Description**|Sensor output file format|
 |**Example**|jpg|
 
 ### Sensor measurement units
-|**Variable name**|sensorUnits|
+|**Variable name**|sensor_units|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Unit or format**|free text|
 |**Description**|The measurement units output by the sensor|
@@ -164,56 +164,56 @@ This page provides description of the variables included in the Sensor Specifica
 |**Example**|0.1 degrees|
 
 ### Collection Frame Rate
-|**Variable name**|frameRate|
+|**Variable name**|frame_rate|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Unit or format**|Hz|
 |**Description**|Measurement frame rate or speed|
 |**Example**|30|
 
 ### Sensor spectral response functions
-|**Variable name**|spectralResponseFunction|
+|**Variable name**|spectral_response_function|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Unit or format**|defined vocabulary: yes, no|
 |**Description**|Indicate if spectral response functions are included in data package|
 |**Example**|Table of band number, wavelength, and intensity|
 
 ### Integration time
-|**Variable name**|integrationTime|
+|**Variable name**|integration_time|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Unit or format**|free text|
 |**Description**|Measurement integration time. Can be fixed value or range.|
 |**Example**|1 - 2 s|
 
 ### Spectral range
-|**Variable name**|spectralRange|
+|**Variable name**|spectral_range|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Unit or format**|free text|
 |**Description**|Instrument measurement wavelength range. Can be more than one if a co-aligned instrument|
 |**Example**|350 ~ 1000 nm|
 
 ### Spectral resolution
-|**Variable name**|spectralRes|
+|**Variable name**|spectral_res|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Unit or format**|free text|
 |**Description**|Instrument measurement resolution. Can be more than one if a co-aligned instrument|
 |**Example**|1.5 nm|
 
 ### Navigation
-|**Variable name**|navSystem|
+|**Variable name**|nav_system|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Unit or format**|free text|
 |**Description**|Make/Model of GNSS Inertial Measurement Unit used with the sensing system|
 |**Example**|Trimble APX-15L w/ AV18 antenna|
 
 ### Spatial pixels
-|**Variable name**|spatialPixels|
+|**Variable name**|spatial_pixels|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Unit or format**|numeric|
 |**Description**|For each sensor plus combined|
 |**Example**|1240|
 
 ### F-number
-|**Variable name**|Fnumber|
+|**Variable name**|f_number|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Unit or format**|free text|
 |**Description**|The fixed or selected aperture size for the data collection|
@@ -227,35 +227,35 @@ This page provides description of the variables included in the Sensor Specifica
 |**Example**|925|
 
 ### LiDAR wavelength
-|**Variable name**|lidarWavelength|
+|**Variable name**|lidar_wavelength|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Unit or format**|nanometers|
 |**Description**|LiDAR beam wavelength|
 |**Example**|903|
 
 ### LiDAR channels
-|**Variable name**|lidarChannels|
+|**Variable name**|lidar_channels|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Unit or format**|integer|
 |**Description**|The total number of LiDAR channels (laser beams) used for data collection|
 |**Example**|32|
 
 ### LiDAR range
-|**Variable name**|lidarMeasurementRange|
+|**Variable name**|lidar_measurement_range|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Unit or format**|meters|
 |**Description**|Max measurement distance|
 |**Example**|200|
 
 ### Minimum angular Resolution
-|**Variable name**|minAngRes|
+|**Variable name**|min_ang_res|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Unit or format**|degrees|
 |**Description**|Angular resolution of LiDAR system (Vertical)|
 |**Example**|0.33|
 
 ### Angular Resolution
-|**Variable name**|angRes|
+|**Variable name**|ang_res|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Unit or format**|degrees|
 |**Description**|Angular Resolution (Horizontal/Azimuth):|
