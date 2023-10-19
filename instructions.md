@@ -12,7 +12,7 @@ A data package containing UAS data should include the following:
 
 5. Data products identified by processing level. Data from one or more processing levels may be included.
 
-6. For submission to ESS-DIVE, data packages should include the csv data decription file (found [here](https://github.com/ess-dive-community/essdive-uas/blob/main/templates/UAS_CSV_dd.csv) in Templates), and a [file-level metadata file (FLMD)](https://github.com/ess-dive-community/essdive-file-level-metadata).
+6. For submission to ESS-DIVE, data packages should include the csv data decription file (found [here](https://github.com/ess-dive-community/essdive-uas/blob/main/templates/UAS_CSV_dd.csv) in Templates), and a [file-level metadata file (FLMD)](https://github.com/ess-dive-community/essdive-file-level-metadata). Within the FLMD file, the _standard_ for each reporting format file should be **"ESS-DIVE UAS v1."** ESS-DIVE dataset submissions also require a keyword in the dataset metadata to identify the reporting format. Please add the keyword **"ESS-DIVE Unoccupied Aerial Systems (UAS) Reporting Format"** to this field. 
 
 See the individual pages for each metadata type for variable names, requirement levels (i.e. required, recommended, optional) and full descriptions. Templates are provided for each metadata category. 
 
