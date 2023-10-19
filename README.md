@@ -1,4 +1,4 @@
-# ESS-DIVE Reporting Format for Unoccupied Aerial System (UAS) data and metadata v 1.0.0
+# ESS-DIVE Unoccupied Aerial Systems (UAS) Reporting Format v 1.0.0
 
 ## About the reporting format
 This reporting format provides metadata requirements and format guidelines for uploading data from small (≤ 25 kg) Unoccupied Aerial Systems (UASs) to the ESS-DIVE archive. This includes basic recording of core flight data (e.g. telemetry), when available, and primary flight metadata (e.g. flight location, flight paths, altitude, date, start/end time), basic UAS payload and instrumentation information (e.g. camera make and model), and the general data product and file metadata needed for interpreting and accessing derived UAS datasets (e.g. pixel resolution, spatial reference system). Templates are provided to enable rapid compilation of metadata. Data products are classfied into processing levels, and recommendations are given for file naming. 
