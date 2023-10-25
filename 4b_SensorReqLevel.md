@@ -11,35 +11,35 @@ Use this to guide completion of the [Sensor Specification metadata template](htt
 
 |**Metadata element**|**Variable name**|**Optical RGB camera**|**Thermal camera**|**Point spectrometer**|**Imaging spectrometer**|**LiDAR**|
 |:------|:------:|:------:|:------:|:------:|:------:|:------:|
-|Sensor type|sensorType|&#9679;|&#9679;|&#9679;|&#9679;|&#9679;|
-|Manufacturer and model|makeModel|&#9679;|&#9679;|&#9679;|&#9679;|&#9679;|
-|Serial number|serialNum|&#9675;|&#9679;|&#9679;|&#9679;|&#9679;|
-|Calibration date|calibrationDate|**x**|&#9677;|&#9677;|&#9677;|&#9677;|
-|Foreoptic|Foreoptic|&#9679;|&#9679;|&#9679;|&#9679;|**x**|
-|Image area and size|imageSize|&#9675;|&#9675;|**x**|**x**|**x**|
-|Shutter speed|shutterSpeed|&#9679;|**x**|**x**|**x**|**x**|
-|Focal length|focalLength|&#9679;|&#9679;|**x**|**x**|**x**|
-|FOV|FOV|&#9677;|&#9677;|&#9677;|&#9677;|&#9679;|
-|ISO|ISO|&#9679;|**x**|**x**|**x**|**x**|
+|Sensor type|sensor_type|&#9679;|&#9679;|&#9679;|&#9679;|&#9679;|
+|Manufacturer and model|make_model|&#9679;|&#9679;|&#9679;|&#9679;|&#9679;|
+|Serial number|instrument_serial_num|&#9675;|&#9679;|&#9679;|&#9679;|&#9679;|
+|Calibration date|calibration_date|**x**|&#9677;|&#9677;|&#9677;|&#9677;|
+|Foreoptic|foreoptic|&#9679;|&#9679;|&#9679;|&#9679;|**x**|
+|Image area and size|image_size|&#9675;|&#9675;|**x**|**x**|**x**|
+|Shutter speed|shutter_speed|&#9679;|**x**|**x**|**x**|**x**|
+|Focal length|focal_length|&#9679;|&#9679;|**x**|**x**|**x**|
+|FOV|fov|&#9677;|&#9677;|&#9677;|&#9677;|&#9679;|
+|ISO|iso|&#9679;|**x**|**x**|**x**|**x**|
 |Focus|focus|&#9675;|&#9675;|**x**|&#9675;|**x**|
-|White balance|whiteBalance|&#9675;|**x**|**x**|**x**|**x**|
+|White balance|white_balance|&#9675;|**x**|**x**|**x**|**x**|
 |Quantization|quant|&#9675;|&#9675;|&#9675;|&#9675;|**x**|
-|File format|fileFormat|&#9679;|&#9679;|&#9679;|&#9679;|&#9679;|
-|Sensor measurement units|sensorUnits|&#9675;|&#9679;|&#9679;|&#9679;|&#9675;|
+|File format|file_format|&#9679;|&#9679;|&#9679;|&#9679;|&#9679;|
+|Sensor measurement units|sensor_units|&#9675;|&#9679;|&#9679;|&#9679;|&#9675;|
 |Accuracy|accuracy|**x**|&#9679;|&#9679;|&#9679;|&#9679;|
 |Precision|precision|**x**|&#9679;|&#9679;|&#9679;|&#9679;|
 |Sensitivity|sensitivity|&#9675;|&#9679;|&#9679;|&#9679;|&#9675;|
-|Collection frame rate|frameRate|&#9675;|&#9679;|**x**|&#9679;|&#9679;|
-|Sensor spectral response functions|spectralResponseFunction|**x**|&#9675;|&#9675;|&#9675;|**x**|
-|Integration time|integrationTime|**x**|**x**|&#9675;|&#9675;|**x**|
-|Spectral range|spectralRange|**x**|**x**|&#9675;|&#9675;|**x**|
-|Spectral resolution|spectralRes|**x**|**x**|&#9675;|&#9675;|**x**|
-|Navigation|navSystem|**x**|**x**|&#9675;|&#9679;|&#9679;|
-|Spatial pixels|spatialPixels|**x**|&#9679;|**x**|&#9679;|**x**|
-|F-number|Fnumber|&#9679;|&#9679;|**x**|&#9675;|**x**|
+|Collection frame rate|frame_rate|&#9675;|&#9679;|**x**|&#9679;|&#9679;|
+|Sensor spectral response functions|spectral_response_function|**x**|&#9675;|&#9675;|&#9675;|**x**|
+|Integration time|integration_time|**x**|**x**|&#9675;|&#9675;|**x**|
+|Spectral range|spectral_range|**x**|**x**|&#9675;|&#9675;|**x**|
+|Spectral resolution|spectral_res|**x**|**x**|&#9675;|&#9675;|**x**|
+|Navigation|nav_system|**x**|**x**|&#9675;|&#9679;|&#9679;|
+|Spatial pixels|spatial_pixels|**x**|&#9679;|**x**|&#9679;|**x**|
+|F-number|f_number|&#9679;|&#9679;|**x**|&#9675;|**x**|
 |weight|weight|&#9675;|&#9675;|&#9675;|&#9675;|&#9677;|
-|LiDAR wavelength|lidarWavelength|**x**|**x**|**x**|**x**|&#9679;|
-|LiDAR channels|lidarChannels|**x**|**x**|**x**|**x**|&#9679;|
-|LiDAR range|lidarMeasurementRange|**x**|**x**|**x**|**x**|&#9677;|
-|Minimum angular Resolution|minAngRes|**x**|**x**|**x**|**x**|&#9677;|
-|Angular resolution|angRes|**x**|**x**|**x**|**x**|&#9677;|
+|LiDAR wavelength|lidar_wavelength|**x**|**x**|**x**|**x**|&#9679;|
+|LiDAR channels|lidar_channels|**x**|**x**|**x**|**x**|&#9679;|
+|LiDAR range|lidar_measurement_range|**x**|**x**|**x**|**x**|&#9677;|
+|Minimum angular Resolution|min_ang_res|**x**|**x**|**x**|**x**|&#9677;|
+|Angular resolution|ang_res|**x**|**x**|**x**|**x**|&#9677;|

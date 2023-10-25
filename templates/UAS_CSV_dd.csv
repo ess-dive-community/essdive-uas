@@ -30,7 +30,7 @@ platform_images,N/A,Indicate if photos or diagrams showing the platform and payl
 flight_identifier,N/A,Individual flight identifier,text
 site_identifier,N/A,Site name,text
 date_time_start,YYYY-MM-DD HH:MM:SS,Start of flight date and time,datetime
-date_time_start,YYYY-MM-DD HH:MM:SS,End of flight date and time,datetime
+date_time_end,YYYY-MM-DD HH:MM:SS,End of flight date and time,datetime
 flight_bound,N/A,Boundary of flight area,text
 flight_height,m,"Flight height program setting, indicate AGL (above ground level) or AMSL (height above average mean sea level)",text
 forward_overlap,percentage,Forward overlap program setting,numeric
