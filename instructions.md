@@ -1,4 +1,4 @@
-# Reporting format for Unoccupied Aerial System (UAS) data and metadata instructions
+# ESS-DIVE Unoccupied Aerial Systems (UAS) Reporting Format instructions
 
 A data package containing UAS data should include the following: 
 
