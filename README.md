@@ -11,7 +11,7 @@ Parts 1-4 provide guidance and templates for metadata associated with the campai
 Comments, questions and suggestions for improvement of this reporting format and documentation may be made by opening an [Issue](https://github.com/ess-dive-community/essdive-uas/issues). We also encourage contributors to make use of the [Discussions](https://github.com/ess-dive-community/essdive-uas/discussions).   
 
 ## Recommended citation
-The citation will be made available upon publication of v1.0.0
+Ely KS; Yang D; Serbin SP (2023). ESS-DIVE Unoccupied Aerial Systems (UAS) Reporting Format v1. Environmental Systems Science Data Infrastructure for a Virtual Ecosystem (ESS-DIVE), ESS-DIVE repository. Dataset. doi:10.15485/2204420
 
 ## Published examples
 Data packages using development versions of this reporting format are available for public access. 
