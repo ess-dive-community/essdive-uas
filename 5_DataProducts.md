@@ -1,4 +1,4 @@
-# UAS Data data product types and processing levels
+# UAS Data product types and processing levels
 
 A scheme of data Levels is proposed to allow data users to clearly identify the types of data products within a UAS data package. 
 
