@@ -49,10 +49,10 @@ instrument_serial_num,N/A,Instrument serial number,text
 calibration_date,YYYY-MM-DD,Date of last calibration,date
 foreoptic,N/A,"Specifications of the foreoptic used for data collection. A foreoptic could be an optical lens, a fiber optic, a combined fiber optic+lens, etc. Include serial numbers if applicable. ",text
 image_size,N/A,Image size in pixels,text
-shutter_speed,s,Camera shutter speed. Can be fixed for all flights or a range of values if variable. ,numeric
-focal_length,numeric,Instrument focal length,numeric
-fov,degrees,The instrument field of view. For LiDAR specify horizontal and vertical FOV,numeric
-iso,N/A,ISO light sensitivity setting. Can be fixed for all flights or a range of values if variable. ,numeric
+shutter_speed,s,Camera shutter speed. Can be fixed for all flights or a range of values if variable. ,text
+focal_length,numeric,Instrument focal length,text
+fov,degrees,The instrument field of view. For LiDAR specify horizontal and vertical FOV,text
+iso,N/A,ISO light sensitivity setting. Can be fixed for all flights or a range of values if variable. ,text
 focus,N/A,Camera focus setting. List all that were used,text
 white_balance,N/A,Camera white balance settings used. List all settings used during campaign. ,text
 quant,N/A,Image bit depth,text
