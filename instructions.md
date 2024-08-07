@@ -16,6 +16,8 @@ A data package containing UAS data should include the following:
 
 See the individual pages for each metadata type for variable names, requirement levels (i.e. required, recommended, optional) and full descriptions. Templates are provided for each metadata category. 
 
+In cases where a dataset comprises products derived from UAS data already available on ESS-DIVE, metadata products 1-4 listed above do not need to be duplicated. The source datasets that include complete metadata should be listed in the Related References section of the package metadata, and relationships between the source datasets and derived dataset described in the Methods.  
+
 ## Additional information
 UAS platform and sensor technologies are rapidly evolving. Inclusion of additional platform and sensor metadata, such as manufacture specification sheets, is encouraged. 
 
